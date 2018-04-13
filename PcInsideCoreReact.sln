@@ -3,11 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PcInsideCoreReact", "PcInsideCoreReact\PcInsideCoreReact.csproj", "{38C47CB6-086F-4FB5-BD4F-8D3C26FC8994}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pc.Pcinside.Web", "PcInsideCoreReact\Pc.Pcinside.Web.csproj", "{38C47CB6-086F-4FB5-BD4F-8D3C26FC8994}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pc.PcBoard.BaseComponent", "Pc.PcBoard.BaseComponent\Pc.PcBoard.BaseComponent.csproj", "{94EB324D-2923-48BD-ACC4-B75602AD82B2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pc.Pcinside.BaseComponent", "Pc.PcBoard.BaseComponent\Pc.Pcinside.BaseComponent.csproj", "{94EB324D-2923-48BD-ACC4-B75602AD82B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pc.PcBoard.Resources", "Pc.PcBoard.Resources\Pc.PcBoard.Resources.csproj", "{93548B82-5477-48F5-9624-3823249421DC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pc.Pcinside.Resources", "Pc.PcBoard.Resources\Pc.Pcinside.Resources.csproj", "{93548B82-5477-48F5-9624-3823249421DC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pc.Pcinside.Model", "Pc.PcBoard.Model\Pc.Pcinside.Model.csproj", "{C5209442-D68B-4830-8D25-F8660C68EDB4}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{4D572704-9BAA-4D70-AF65-62613B591DF8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{93548B82-5477-48F5-9624-3823249421DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93548B82-5477-48F5-9624-3823249421DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93548B82-5477-48F5-9624-3823249421DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5209442-D68B-4830-8D25-F8660C68EDB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5209442-D68B-4830-8D25-F8660C68EDB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5209442-D68B-4830-8D25-F8660C68EDB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5209442-D68B-4830-8D25-F8660C68EDB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D572704-9BAA-4D70-AF65-62613B591DF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D572704-9BAA-4D70-AF65-62613B591DF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D572704-9BAA-4D70-AF65-62613B591DF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D572704-9BAA-4D70-AF65-62613B591DF8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

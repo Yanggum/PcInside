@@ -1,0 +1,83 @@
+﻿<#@ template debug="true" hostspecific="true" language="C#" #>
+<#@ assembly name="System.Core" #>
+<#@ import namespace="System.Linq" #>
+<#@ import namespace="System.Text" #>
+<#@ import namespace="System.Collections.Generic" #>
+<#@ output extension="Resource.js" #>
+<#@ assembly name="System.Xml" #>
+<#@ import namespace="System.Xml" #>
+<#@ import namespace="System.IO" #>
+
+var MultiLangScript = '';
+
+function SetCurrentLanguage(languageCode) {
+	languageCode = languageCode.toLowerCase();
+    switch (languageCode) {
+        case "ko":
+            MultiLangScript = MULTI_LANG_KO;
+            break;
+
+        case "en":
+            MultiLangScript = MULTI_LANG_EN;
+            break;
+
+        default:
+            MultiLangScript = MULTI_LANG_KO;
+            break;
+    }
+}
+
+function GetMultiLanguage(key){
+	return MultiLangScript[key];
+}
+
+function SetLanguage(currentLanguage)
+{
+    $('[data-langKey]').each(function()
+    {
+        var $this = $(this);
+        $this.text(currentLanguage[$this.data('langkey')]);
+    })
+}
+
+<#
+	string projectDir = Host.ResolveAssemblyReference("$(ProjectDir)");
+	string xmlPath = Path.Combine(projectDir, "xml\\MultiLanguage.xml");
+
+	XmlDocument xml = new XmlDocument();
+	xml.Load(xmlPath);
+	
+	XmlNodeList setNodeList = xml.SelectNodes("/MultiLanguage/Section/set");
+#>
+
+var MULTI_LANG_KO = {	
+<#
+	foreach (XmlNode setNode in setNodeList)
+	{
+		string key = setNode["key"].InnerText;
+		string ko = setNode["val"].SelectSingleNode("ko").InnerText.Replace("\"","\\\"");
+#>
+	"<#=key#>" : "<#=ko#>",
+<#
+	}
+#>
+}
+
+var MULTI_LANG_EN = {	
+<#
+	foreach (XmlNode setNode in setNodeList)
+	{
+		string key = setNode["key"].InnerText;
+		string en = setNode["val"].SelectSingleNode("en").InnerText.Replace("\"","\\\"");
+#>
+	"<#=key#>" : "<#=en#>",
+<#
+	}
+#>
+}
+
+{
+    var langcode = 'ko'
+    if (typeof (gWebInfo) != 'undefined') { langcode = gWebInfo.GwpLangCode; }
+    SetCurrentLanguage(langcode);
+}

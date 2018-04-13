@@ -1,0 +1,988 @@
+﻿
+기존다국어언어¿ITHelpTitle¿IT 도움말¿IT Help¡
+기존다국어언어¿ITHelpDesc¿IT Service 관련 도움말¿IT Service Help¡
+기존다국어언어¿SettingBoardList¿게시판설정¿Setting board list¡
+기존다국어언어¿SelectingCompanies¿회사선택¿Selecting companies¡
+기존다국어언어¿AndOthers¿외¿and others¡
+기존다국어언어¿DietInformation¿식단정보¿Weekly Menu¡
+기존다국어언어¿DietBreakfast¿조식¿Breakfast¡
+기존다국어언어¿DietLunch¿중식¿Lunch¡
+기존다국어언어¿DietDinner¿석식¿Dinner¡
+기존다국어언어¿MyTokHelpTitle¿My tok 도움말¿My tok Help¡
+기존다국어언어¿MyTokHelpDesc¿My tok서비스에서 즐겨찾기로 지정한 리스트가 제공되며, 지정된 즐겨찾기가 없을 경우 추천 리스트가 제공됩니다.¿This list is your favorites of My tok. If your favorite list is empty, a recommendation list is provided.¡
+기존다국어언어¿CompanyBoardViewSettings¿회사 게시판 보기 설정¿Company board view settings.¡
+기존다국어언어¿BoardConfigCountCanBeLessThanOrEqualToN¿게시판 설정은 최대 {0}개까지 지정할 수 있습니다.¿Board config count can be less than or equal to {0}¡
+기존다국어언어¿TheAllowedExtensionsAre¿허용된 확장자는 다음과 같습니다.¿The allowed extensions are:¡
+기존다국어언어¿FamilyEventsCompanyViewOptions¿경사/조사 보기설정¿View options¡
+기존다국어언어¿HappyOccasions¿경사¿Celebrates¡
+기존다국어언어¿SadOccasions¿조사¿Funeral¡
+기존다국어언어¿Loading¿로드 중¿Loading¡
+기존다국어언어¿MyCopsAndCommunities¿나의 CoP/커뮤니티¿My CoPs/Communities¡
+기존다국어언어¿CompanyDocumentBox¿전사문서함¿Company box¡
+기존다국어언어¿PersonalDocumentBox¿개인문서함¿Personal box¡
+기존다국어언어¿NoListData¿목록이 없습니다.¿No list.¡
+기존다국어언어¿Copy¿복사¿Copy¡
+기존다국어언어¿NoReceiverSelected¿선택된 수신인이 없습니다.¿No receiver is selected¡
+기존다국어언어¿MailHasBeenSent¿메일이 발송되었습니다.¿The mail has been sent.¡
+기존다국어언어¿ShowReceivers¿수신처 확인¿Show Receivers¡
+기존다국어언어¿UseAccessRightsControl¿접근 권한 설정 사용¿Use access rights control¡
+기존다국어언어¿AccessRights¿접근 권한¿Access rights¡
+기존다국어언어¿CopyConfirmMessage¿정말 복사하시겠습니까?¿Do you really want to copy this item?¡
+기존다국어언어¿TheCopyHasBeenCompleted¿복사하였습니다.¿TheCopyHasBeenCompleted.¡
+기존다국어언어¿TargetFolderIsNotSelected¿복사 할 폴더가 선택되지 않았습니다.¿Target folder is not selected.¡
+기존다국어언어¿Permanent¿영구¿Permanent¡
+기존다국어언어¿RetentionPeriod¿보존 연한¿Retention period¡
+기존다국어언어¿MyCoPs¿나의 활동중인 CoP¿My CoPs¡
+기존다국어언어¿Shortcut¿바로가기¿Shortcut¡
+기존다국어언어¿CopyToOtherCoPs¿타 CoP 복사¿Copy to other CoPs¡
+기존다국어언어¿RemoveAll¿모두제거¿RemoveAll¡
+기존다국어언어¿Remove¿제거¿Remove¡
+기존다국어언어¿EmailBcc¿숨은 참조¿BCC¡
+기존다국어언어¿EmailCc¿참조¿CC¡
+기존다국어언어¿EmailTo¿받는 사람¿To¡
+기존다국어언어¿Persons¿명¿Person(s)¡
+기존다국어언어¿SendNotificationEmail¿알림 메일 송신¿Send notification email¡
+기존다국어언어¿WouldYouMoveToSelectedFolder¿선택한 폴더로 이동 하시겠습니까?¿Would you move to selected folder?¡
+기존다국어언어¿HasBeenMovedSuccessfully¿성공적으로 이동되었습니다.¿Folder has been moved successfully.¡
+기존다국어언어¿FolderIsNotSelected¿폴더가 선택되지 않았습니다.¿Target folder is not selected.¡
+기존다국어언어¿SelectFolderWhereThisDocumentWillMoveTo¿이 문서가 이동할 폴더를 선택하시기 바랍니다.¿Select a folder where this document will move to¡
+기존다국어언어¿Move¿이동¿Move¡
+기존다국어언어¿MoveFolder¿폴더 이동¿Move folder¡
+기존다국어언어¿Change¿변경¿Change¡
+기존다국어언어¿ChangeFolder¿폴더 변경¿Change folder¡
+기존다국어언어¿CopyUrl¿URL 복사¿Copy URL¡
+기존다국어언어¿PasteItWhereYouWantToShare¿공유하려는 위치에 붙여넣기 하세요.¿Paste it where you want to share.¡
+기존다국어언어¿UrlHasBeenCopied¿URL이 복사되었습니다.¿网址已复制。¡
+기존다국어언어¿PasswordMustBeAtLeastNChars¿비밀번호는 최소 {0} 자 이상이어야 합니다.¿Password must be at least {0} characters.¡
+기존다국어언어¿PleaseInputValidAnonymousName¿올바른 익명 값을 입력하시기 바랍니다.¿Please, Input a valid anonymous name.¡
+기존다국어언어¿SpacesAreNotAllowedForAnonymousName¿익명 이름에는 공백을 포함할 수 없습니다.¿Spaces are not allowed for anonymous names.¡
+기존다국어언어¿InputPassword¿비밀번호를 입력하세요.¿Please, Input password.¡
+기존다국어언어¿PleaseInputValidPassword¿올바른 비밀번호를 입력하시기 바랍니다.¿Please, Input a valid password.¡
+기존다국어언어¿SpacesAreNotAllowedForPassword¿비밀번호에 공백을 포함할 수 없습니다.¿Spaces are not allowed for passwords¡
+기존다국어언어¿Password¿비밀번호¿Password¡
+기존다국어언어¿AnonymousSetting¿익명 설정¿Anonymous setting¡
+기존다국어언어¿Anonymous¿익명¿Anonymous¡
+기존다국어언어¿RealName¿실명¿Real Name¡
+기존다국어언어¿DirectInput¿직접입력¿Direct input¡
+기존다국어언어¿NotFoundEmail¿입력한 이름(이메일)을 찾을 수 없습니다.¿The entered name(email) is not found¡
+기존다국어언어¿Printing¿인쇄¿Print¡
+기존다국어언어¿PrevPost¿이전글¿Previous¡
+기존다국어언어¿NextPost¿다음글¿Next¡
+기존다국어언어¿NoCheckedItem¿체크하신 항목이 없습니다¿There is no selected item¡
+기존다국어언어¿Writing¿글쓰기¿New¡
+기존다국어언어¿Deleting¿삭제¿Delete¡
+기존다국어언어¿Searching¿검색¿Search¡
+기존다국어언어¿Total¿전체¿All¡
+기존다국어언어¿Total2¿총¿Total¡
+기존다국어언어¿Attach¿첨부¿Attach¡
+기존다국어언어¿Title¿제목¿Title¡
+기존다국어언어¿ArticleTag¿태그¿TAG¡
+기존다국어언어¿ArticleTagPlaceholder¿태그를 입력하세요.¿Please enter tags¡
+기존다국어언어¿Birthday¿생일¿Birthday¡
+기존다국어언어¿Writer¿작성자¿Writer¡
+기존다국어언어¿WriteDate¿작성일¿Created On¡
+기존다국어언어¿Recommend¿추천¿Like¡
+기존다국어언어¿NonRecommend¿비추천¿Dislike¡
+기존다국어언어¿Share¿공유¿Share¡
+기존다국어언어¿ViewCount¿조회수¿R/C¡
+기존다국어언어¿Comment¿댓글¿Comment¡
+기존다국어언어¿TitlePlaceHolder¿제목을 입력하세요.¿Please enter a title.¡
+기존다국어언어¿CommentPlaceHolder¿댓글을 입력해 주세요.¿Please enter your comment.¡
+기존다국어언어¿CommentPlaceHolder2¿댓글을 작성해 주세요.¿Please enter your comment.¡
+기존다국어언어¿ToDeleteThisComment¿댓글을 삭제 하시겠습니까?¿Are you sure you want to delete this comment?¡
+기존다국어언어¿ThisCommentHasBeenDeleted¿삭제된 댓글입니다.¿This comment has been deleted.¡
+기존다국어언어¿AllComment¿전체 댓글¿All Comments¡
+기존다국어언어¿MyComment¿내 댓글¿My Comments¡
+기존다국어언어¿CommentWrite¿댓글쓰기¿Write a Comment¡
+기존다국어언어¿CommentAdd¿댓글등록¿Add¡
+기존다국어언어¿CommentAddSub¿댓글¿Add¡
+기존다국어언어¿CommentModify¿댓글수정¿Modify¡
+기존다국어언어¿Reply¿응답¿Reply¡
+기존다국어언어¿Save¿저장¿Save¡
+기존다국어언어¿TemporarySave¿임시 저장¿Temporary Save¡
+기존다국어언어¿Modify¿수정¿Modify¡
+기존다국어언어¿ModifyComplete¿수정완료¿Save¡
+기존다국어언어¿Cancel¿취소¿Cancel¡
+기존다국어언어¿Close¿닫기¿Close¡
+기존다국어언어¿Confirm¿확인¿Confirm¡
+기존다국어언어¿Ok¿확인¿OK¡
+기존다국어언어¿Yes¿예¿Yes¡
+기존다국어언어¿No¿아니오¿No¡
+기존다국어언어¿List¿목록¿List¡
+기존다국어언어¿AdminSetting¿관리자 설정¿Administrator Settings¡
+기존다국어언어¿Create¿생성¿Create Board¡
+기존다국어언어¿CreateDate¿생성일¿Creation Date¡
+기존다국어언어¿Name¿이름¿Board Name¡
+기존다국어언어¿Description¿설명¿Description¡
+기존다국어언어¿Type¿타입¿Type¡
+기존다국어언어¿General¿일반¿General¡
+기존다국어언어¿Field¿필드¿Field¡
+기존다국어언어¿FieldAdd¿필드추가¿Add Field¡
+기존다국어언어¿ID¿아이디¿ID¡
+기존다국어언어¿AddAdmin¿관리자 추가¿Add Administrator¡
+기존다국어언어¿Complete¿완료¿Complete¡
+기존다국어언어¿CheckUsing¿사용여부¿Use This Board¡
+기존다국어언어¿BasicUseField¿기본 사용 필드¿Basic Fields¡
+기존다국어언어¿ItemCount¿게시물수¿Item Count¡
+기존다국어언어¿AddField¿필드 추가¿Add Field¡
+기존다국어언어¿FieldName¿필드 이름¿Field Name¡
+기존다국어언어¿FieldType¿필드 타입¿Field Type¡
+기존다국어언어¿Required¿필수¿Required¡
+기존다국어언어¿View¿조회¿View¡
+기존다국어언어¿Order¿순서¿Order¡
+기존다국어언어¿ItemNum¿게시물넘버¿Item No.¡
+기존다국어언어¿Content¿본문¿Content¡
+기존다국어언어¿Width¿너비¿Width¡
+기존다국어언어¿InputSearchKeyword¿검색어 입력¿Keyword¡
+기존다국어언어¿FailedToMakeKeySetForEncryption¿암호화를 위한 키 발급에 실패하였습니다.¿Failed to make a key set for encryption¡
+기존다국어언어¿ErrorPage_AccessDenied¿해당페이지는 접근권한이 없습니다.¿Access Denied for This Page¡
+기존다국어언어¿ErrorPage_Title¿페이지에 오류가 발생했습니다.¿Error occurred on the page¡
+기존다국어언어¿ErrorPage_Prev¿이전 페이지 가기¿Previous Page¡
+기존다국어언어¿ErrorPage_Home¿홈으로 가기¿Home¡
+기존다국어언어¿MyInfoSetting¿개인설정¿Personal Settings¡
+기존다국어언어¿MyInfoSetting_Title¿개인설정관리¿Manage Personal Settings¡
+기존다국어언어¿MyInfoSetting_Description¿포탈에서 사용하는 사용환경을 설정할 수 있습니다.¿You can set your environment used in the portal page.¡
+기존다국어언어¿MyInfoSetting_Caution_PhoneNumber¿※ 휴대폰/사무실 번호는 - 을 포함하여 입력해주세요. (예: 054-630-8114, 010-1234-5678)¿※ Please enter including - on the phone / office number. (Example: 054-630-8114, 010-1234-5678)¡
+기존다국어언어¿MyInfoSetting_MailSet¿메일 환경 설정¿Mail Preferences¡
+기존다국어언어¿MyInfoSetting_MailSet_Description¿* 메일 사용 환경을 선택하여 저장하시면, GNB의 메일 아이콘과 연동이 됩니다.¿* If you select your preferred mail environment, it will interoperate with the mail icon of the GNB.¡
+기존다국어언어¿MyInfoSetting_PhotoSet¿사진 변경 설정¿Change Photo¡
+기존다국어언어¿MyInfoSetting_PhotoSet_Prefix¿등록된 사진¿Registered Photo¡
+기존다국어언어¿MyInfoSetting_PhotoSet_Change¿사진변경¿Change Photo¡
+기존다국어언어¿MyInfoSetting_PhotoSet_Description1¿* 이미지 권장 사이즈는 ¿* The recommended image size is ¡
+기존다국어언어¿ImageUpload¿이미지 업로드¿Upload Image¡
+기존다국어언어¿MyInfoSetting_PhotoSet_Description2¿{0}픽셀 x {1}픽셀¿{0}px x {1}px¡
+기존다국어언어¿MyInfoSetting_PhotoSet_Description3¿입니다.¿.¡
+기존다국어언어¿MyInfoSetting_PhoneSet¿휴대폰번호¿Mobile¡
+기존다국어언어¿MyInfoSetting_Mobile¿휴대폰 번호¿Mobile¡
+기존다국어언어¿MyInfoSetting_Office¿사무실 전화번호¿OfficeTel¡
+기존다국어언어¿MyInfoSetting_Home¿자택 전화번호¿HomeTel¡
+기존다국어언어¿MyInfoSetting_Fax¿팩스¿FAX¡
+기존다국어언어¿MyInfoSetting_JobDesc¿담당업무¿Job Description¡
+기존다국어언어¿MyInfoSetting_TimeZone¿타임존¿TimeZone¡
+기존다국어언어¿MyInfoSetting_TimeZone_Preference¿주요 타임존¿Preferences¡
+기존다국어언어¿MyInfoSetting_TimeZone_Another¿기타 타임존¿Another¡
+기존다국어언어¿MyInfoSetting_Location¿근무지¿Location¡
+기존다국어언어¿MyInfoSetting_Location_CodeGeneration¿근무지 코드 업데이트¿Update LocationCode Map¡
+기존다국어언어¿MyInfoSetting_Location_ConfirmCodeGeneration¿근무지 코드를 DB에 업데이트 하시겠습니까?¿Do you want to Update LocationCode in Database?¡
+기존다국어언어¿MyInfoSetting_SelectCompany¿설정 대상 선택¿Company¡
+기존다국어언어¿MyInfoSetting_PersonalizedItems¿개인화 허용 대상¿Personalized items¡
+기존다국어언어¿MyInfoSetting_PersonalizedItems_Password¿비밀번호 관리¿Password Management¡
+기존다국어언어¿MyInfoSetting_Password¿비밀번호 변경¿Change Password¡
+기존다국어언어¿MyInfoSetting_Password_Management¿구성원 비밀번호 변경¿Change Memebr's Password¡
+기존다국어언어¿MyInfoSetting_Password_Validation_SpecialCharacters¿특수문자 필수 포함¿Requrie special characters¡
+기존다국어언어¿MyInfoSetting_Password_Vaildation_RepeatingCharacters¿반복문자 금지¿Characters repeat prohibited¡
+기존다국어언어¿MyInfoSetting_Password_Vaildation_MinimumLength¿최소길이¿Minimum Length¡
+기존다국어언어¿MyInfoSetting_Password_PermitSamePasswordNewAndOld¿동일한 패스워드 허용¿Permit same password new and old value¡
+기존다국어언어¿MyInfoSetting_Password_Input_Account¿계정¿Account¡
+기존다국어언어¿MyInfoSetting_Password_Input_NewPassword¿신규 비밀번호¿New Password¡
+기존다국어언어¿MyInfoSetting_Password_Input_ConfirmPassword¿비밀번호 확인¿Confirm Password¡
+기존다국어언어¿MyInfoSetting_Password_Change_Failed_InvalidEncryptionKey¿비밀번호 변경을 위한 인증키가 올바르지 않습니다.¿It's invalid encryption key for password.¡
+기존다국어언어¿MyInfoSetting_Password_Change_Failed_ChangePassword¿비밀번호를 변경하지 못했습니다.¿Failed to set password.¡
+기존다국어언어¿MyInfoSetting_Password_Change_Failed_NotEqualPasswordNC¿두 비밀번호가 일치하지 않습니다.¿confirm password is not equal new password.¡
+기존다국어언어¿MyInfoSetting_Password_Change_Failed_RepeatingCharacters¿비밀번호는 동일한 문자가 {0}회 이상 반복될 수 없습니다.¿Password is the same character can't be repeated {0} or more times.¡
+기존다국어언어¿MyInfoSetting_Password_Change_Failed_SpecialCharacters¿비밀번호는 특수문자가 포함되어야 합니다.¿Password must include special character.¡
+기존다국어언어¿MyInfoSetting_Password_Change_Failed_MinimumLength¿비밀번호는 최소 {0}자 이상이어야 합니다.¿Password must be at least {0} characters.¡
+기존다국어언어¿MyInfoSetting_Password_Change_Failed_SamePasswordNewAndOld¿신규 비밀번호는 기존 비밀번호와 동일하게 설정 할 수 없습니다.¿Password must be different old password.¡
+기존다국어언어¿MyInfoSetting_Password_Change_Failed_PasswordEmpty¿비밀번호가 입력되지 않았습니다.¿must be input password.¡
+기존다국어언어¿MyInfoSetting_Password_Change_Success¿비밀번호를 변경했습니다. 안전한 사용을 위해 다시 로그인 하시기 바랍니다.¿Password has been changed. Please portal login for safe use.¡
+기존다국어언어¿MyInfoSetting_Password_Change_Success_ByAdmin¿{0} 계정의 비밀번호를 변경했습니다.¿{0} account's password has been changed.¡
+기존다국어언어¿PopupType¿팝업타입¿Pop-up Type¡
+기존다국어언어¿PreAlarm¿미리알림¿Alarm¡
+기존다국어언어¿Holiday¿공휴일¿Holiday¡
+기존다국어언어¿DisplayHoliday¿공휴일 표시¿Display Holiday¡
+기존다국어언어¿HolidayName¿공휴일 이름¿Holiday Name¡
+기존다국어언어¿Category¿카테고리¿Category¡
+기존다국어언어¿CategoryFilter¿카테고리 필터 사용여부¿Category Filter¡
+기존다국어언어¿Add¿추가¿Add¡
+기존다국어언어¿CategoryName¿카테고리 이름¿Category Name¡
+기존다국어언어¿CharacterColor¿글자 색상¿Color of the character¡
+기존다국어언어¿BackgroundColor¿배경 색상¿Background Color¡
+기존다국어언어¿BackgroundOpacity¿배경 불투명도¿Opacity of the background¡
+기존다국어언어¿Selection¿선택¿Selection¡
+기존다국어언어¿Option¿중요공지¿Notice¡
+기존다국어언어¿Important¿공지로 지정¿Post as Notice¡
+기존다국어언어¿SpecifyDate¿기간지정¿Specify a date¡
+기존다국어언어¿StartDate¿공지 시작일¿Start Date¡
+기존다국어언어¿EndDate¿공지 종료일¿End Date¡
+기존다국어언어¿WholePeriod¿전체기간¿Whole Period¡
+기존다국어언어¿URL¿URL¿URL¡
+기존다국어언어¿BoardDatabase¿데이터베이스¿Database¡
+기존다국어언어¿SiteType¿용도¿Site Type¡
+기존다국어언어¿BoardGeneralSetting¿게시판 일반설정¿General Settings¡
+기존다국어언어¿BoardFieldSetting¿게시판 필드설정¿Field Settings¡
+기존다국어언어¿Board_Management_StadardSetting¿표준게시판 설정¿Standard Board Settings¡
+기존다국어언어¿Board_Management_ScheduleSetting¿일정게시판 설정¿Schedule Board Settings¡
+기존다국어언어¿Board_Management_GalleryFormSetting¿이미지 게시판 설정¿Gallery Board Settings¡
+기존다국어언어¿Attachment¿첨부 파일¿Attachment¡
+기존다국어언어¿FindFiles¿찾아보기¿Select Files¡
+기존다국어언어¿AttachmentContents¿첨부 파일 내용¿Attachments¡
+기존다국어언어¿Upload¿업로드¿Upload¡
+기존다국어언어¿SelectionDelete¿선택삭제¿Delete Selection¡
+기존다국어언어¿SelectAll¿전체선택¿Select All¡
+기존다국어언어¿ViewSchedule¿일정 보기¿View Schedule¡
+기존다국어언어¿Initialization¿초기화¿Reset¡
+기존다국어언어¿Attendee¿참여자¿Attendee¡
+기존다국어언어¿RecurrenceYN¿반복여부¿RecurrenceYN¡
+기존다국어언어¿Location¿위치¿Location¡
+기존다국어언어¿TimezoneName¿타임존¿Timezone¡
+기존다국어언어¿ScheduleStartDate¿시작일¿Start Date¡
+기존다국어언어¿ScheduleEndDate¿종료일¿End Date¡
+기존다국어언어¿SchedulenReminders¿미리 알림¿Alarm¡
+기존다국어언어¿HolidaySetting¿공휴일 설정¿Set Holiday¡
+기존다국어언어¿HolidayVisible¿공휴일¿Holiday¡
+기존다국어언어¿LoadIcsFile¿ICS파일 불러오기¿Load ICS File¡
+기존다국어언어¿To¿부터¿to¡
+기존다국어언어¿Until¿까지¿Until¡
+기존다국어언어¿Daily¿매일¿Daily¡
+기존다국어언어¿Weekly¿매주¿Weekly¡
+기존다국어언어¿Monthly¿매월¿Monthly¡
+기존다국어언어¿DayOfTheWeek¿요일¿Day of the Week¡
+기존다국어언어¿Repeat¿반복¿Repeat¡
+기존다국어언어¿None¿없음¿None¡
+기존다국어언어¿AllDay¿하루 종일¿All Day¡
+기존다국어언어¿RepeatSetting¿반복설정¿Recurrence¡
+기존다국어언어¿End¿종료¿End¡
+기존다국어언어¿Start¿시작¿Start¡
+기존다국어언어¿Memo¿메모¿Memo¡
+기존다국어언어¿DateInvalidMessage¿시작일보다 종료일이 빠를수 없습니다.¿The end date cannot be earlier than the start date.¡
+기존다국어언어¿TimeInvalidMessage¿시작시각보다 종료시각이 빠를 수 없습니다.¿The end time cannot be earlier than the start time.¡
+기존다국어언어¿TitleEmptyMessage¿제목을 입력해 주세요¿Please enter the title.¡
+기존다국어언어¿ResetStartDate¿시작날짜를 다시 설정해 주세요.¿Please change the start date.¡
+기존다국어언어¿ResetEndDate¿종료날짜를 다시 설정해 주세요.¿Please change the end date.¡
+기존다국어언어¿SaveFailed¿저장에 실패했습니다.¿Save Failed¡
+기존다국어언어¿UpdateFailed¿수정에 실패했습니다.¿Update Failed¡
+기존다국어언어¿DeleteFailed¿삭제에 실패했습니다.¿Delete Failed¡
+기존다국어언어¿UploadICSFileOnly¿ICS 파일만 첨부 가능합니다.¿You can upload ICS files only.¡
+기존다국어언어¿CannotOver30M¿용량은 30MB를 초과할 수 없습니다.¿The file size cannot be over 30MB.¡
+기존다국어언어¿ScheduleMessage¿{0}개의 일정이 있습니다.¿There are {0} Schedules.¡
+기존다국어언어¿NoSchedule¿일정이 없습니다.¿No Schedule.¡
+기존다국어언어¿InvalidData¿부적합한 입력 또는 데이터 오류입니다.¿Invalid Input Or Data Error¡
+기존다국어언어¿MaxFileSize¿ex) 파일 사이즈 초과 (30MB)¿ex) Over max file size(30MB)¡
+기존다국어언어¿CheckSaveAgain¿저장하시겠습니까?¿Are you sure to save?¡
+기존다국어언어¿FileAttachment¿파일 첨부¿File attachment¡
+기존다국어언어¿DropFilesHere¿이곳에 파일을 끌어다 놓으세요.¿Drop files here.¡
+기존다국어언어¿Schedule¿일정¿Schedule¡
+기존다국어언어¿SelectScheduleAgain¿일정을 다시 호출해주세요.¿Please select the schedule again.¡
+기존다국어언어¿ChoiceScheduleMessage¿되풀이 약속 중 하나입니다. 어떤 것을 여시겠습니까?¿This is an instance of a recurring schedule. How do you want to open it?¡
+기존다국어언어¿ThisSchedule¿이 약속만¿Just this schedule.¡
+기존다국어언어¿AllRepeatSchedule¿전체 되풀이 약속¿Whole recurring schedule¡
+기존다국어언어¿SelectCalendarAgain¿캘린더를 다시 호출해주세요.¿Please select calendar again.¡
+기존다국어언어¿SettingRepeatType¿반복 타입을 설정해주세요.¿Please set recurrence type.¡
+기존다국어언어¿SelectDaysOfWeek¿요일을 선택해주세요.¿Please select day of a week.¡
+기존다국어언어¿RepeatWeeklyDay¿매주 다음 요일에 반복¿Repeat weekly on the following day¡
+기존다국어언어¿RepeatMonthly¿일에 반복¿Repeat on the date¡
+기존다국어언어¿Period¿기간¿Period¡
+기존다국어언어¿RemoveRepeat¿반복 제거¿Remove recurrence¡
+기존다국어언어¿MoveScheduleConfirm¿이 위치로 옮기겠습니까?¿Are you sure to move this schedule?¡
+기존다국어언어¿ChangeTimeConfirm¿시간을 변경하시겠습니까?¿Are you sure to change time?¡
+기존다국어언어¿WriteSearchKeyword¿검색어를 입력하세요.¿Please enter search keyword.¡
+기존다국어언어¿CannotDeleteAdminGroup¿관리자 그룹은 삭제할 수 없습니다.¿Administrators group cannot be deleted¡
+기존다국어언어¿GroupDoesNotExist¿해당 그룹이 존재하지 않습니다.¿That group does not exist.¡
+기존다국어언어¿SingleUseSendMailSuccess¿{0}님에게 메일발송 성공.¿Mail sent successfully to {0}.¡
+기존다국어언어¿SingleUseSendMailFail¿{0}님에게 메일발송 실패.¿Failed to send mail to {0}.¡
+기존다국어언어¿OthersUseSendMailSuccess¿{0}님외 {1}명 메일 발송 성공.¿Mail sent successfully to {0} and {1} others.¡
+기존다국어언어¿OthersUseSendMailFail¿{0}님외 {1}명 메일 발송 실패.¿Failed to send mail to {0} and {1} others.¡
+기존다국어언어¿Community¿커뮤니티¿Community¡
+기존다국어언어¿AllCommunity¿전체 커뮤니티¿All Community¡
+기존다국어언어¿MyCommunity¿My 커뮤니티¿My Community¡
+기존다국어언어¿EstablishList¿개설 신청 목록¿Requested for Creation¡
+기존다국어언어¿RemoveCommunity¿커뮤니티 삭제¿Remove Community¡
+기존다국어언어¿RemoveCommunityCautionMessage¿커뮤니티를 삭제하면 데이터는 복구되지 않습니다.¿When you delete this community, data can not be recovered.¡
+기존다국어언어¿EstablishDetail¿커뮤니티 개설 신청 상세¿Details for Community Creation Request¡
+기존다국어언어¿Manager¿매니저¿Manager¡
+기존다국어언어¿MemberCount¿회원수¿No. of Members¡
+기존다국어언어¿EstablishDate¿개설일¿Established On¡
+기존다국어언어¿CoverPictureManagement¿커버사진관리¿Cover Picture Management¡
+기존다국어언어¿CoverPicture¿커버사진¿Cover Picture¡
+기존다국어언어¿Management¿관리¿Manage¡
+기존다국어언어¿CommunityCategory¿Community 카테고리¿Community Category¡
+기존다국어언어¿CommunityCategoryCheck¿Community 카테고리를 확인하세요. ¿Checking for Community Category¡
+기존다국어언어¿AllPosts¿전체게시글¿No. of Posts¡
+기존다국어언어¿PostsCount¿게시글 수¿Posts Count¡
+기존다국어언어¿All¿전체¿All¡
+기존다국어언어¿Status¿상태¿Status¡
+기존다국어언어¿Approval¿승인¿Approval¡
+기존다국어언어¿Reject¿반려¿Reject¡
+기존다국어언어¿Request¿요청¿Request¡
+기존다국어언어¿JoinRequest¿가입요청¿Join¡
+기존다국어언어¿CommunityJoinRequest¿커뮤니티 가입 요청¿Community Join Request¡
+기존다국어언어¿CommunityName¿커뮤니티 이름¿Community Name¡
+기존다국어언어¿CommunityDescription¿커뮤니티 설명¿Community Description¡
+기존다국어언어¿CommunitySetting¿커뮤니티 설정¿Community Settings¡
+기존다국어언어¿CommunityNews¿커뮤니티 소식¿Community News¡
+기존다국어언어¿RequestReason¿요청 사유¿Request Reason¡
+기존다국어언어¿JoinTypeText¿이 커뮤니티는 가입 요청과 동시에 가입됩니다.¿You can join this community immediately by join request.¡
+기존다국어언어¿ConfirmRepetition¿중복확인¿Check Duplication¡
+기존다국어언어¿CommunityURL¿커뮤니티 주소¿Community URL¡
+기존다국어언어¿CheckingPublic¿공개 여부¿Open¡
+기존다국어언어¿Public¿공개¿Public¡
+기존다국어언어¿Private¿비공개¿Private¡
+기존다국어언어¿JoinType¿가입 방식¿Join Type¡
+기존다국어언어¿JoinTypeTextImmediately¿가입 신청 시 바로 가입할 수 있습니다.¿Join Immediately.¡
+기존다국어언어¿JoinTypeTextApproval¿가입 신청 시 운영진 승인을 거쳐 가입할 수 있습니다.¿Join after administrator's approve¡
+기존다국어언어¿MemberList¿회원 목록¿Member List¡
+기존다국어언어¿ApplicationReason¿신청 사유¿Reason of Applying¡
+기존다국어언어¿Icon¿아이콘¿Icon¡
+기존다국어언어¿IconNotice¿150x150 사이즈의 gif, jpg, png 파일을 준비하세요.¿Please use 150x150 sized gif, jpg, png file.¡
+기존다국어언어¿CommunityAdmin¿커뮤니티 관리자¿Community Administrator¡
+기존다국어언어¿OrgChart¿조직도¿Organization Chart¡
+기존다국어언어¿Application¿신청¿Application¡
+기존다국어언어¿RejectReason¿반려 사유¿Reason of Rejection¡
+기존다국어언어¿Reason¿사유¿Reason¡
+기존다국어언어¿DiskInfo¿디스크정보¿Disk Information¡
+기존다국어언어¿BoardListType¿리스트 타입¿List Type¡
+기존다국어언어¿ListType¿리스트¿List¡
+기존다국어언어¿MatrixType¿매트릭스¿Matrix¡
+기존다국어언어¿WebzineType¿웹진¿Webzine¡
+기존다국어언어¿SocialType¿소셜¿Social¡
+기존다국어언어¿RecentPost¿최근 게시글¿Recent Post¡
+기존다국어언어¿CoverPictureSaveFail¿커버사진 저장을 실패했습니다.¿Failed to save cover image.¡
+기존다국어언어¿ErrorMessage_Type1¿Error¿Error¡
+기존다국어언어¿ErrorMessage_Type2¿커뮤니티 ID 오류 회원가입 실패¿Community ID Error. Failed to Join¡
+기존다국어언어¿ErrorMessage_Type3¿서버와 통신 중 문제가 발생했습니다.¿There was a problem on commnunication with Serer¡
+기존다국어언어¿WithdrawalMessage_Type1¿탈퇴하시겠습니까?¿Are you sure to withdraw?¡
+기존다국어언어¿JoinCommunity¿커뮤니티 가입하기¿Join Community¡
+기존다국어언어¿WithdrawCommunity¿커뮤니티 탈퇴하기¿Withdraw Community¡
+기존다국어언어¿CompleteMessage_Type1¿완료되었습니다.¿Completed¡
+기존다국어언어¿RecentVisitDate¿최근방문일¿Last Visit¡
+기존다국어언어¿MyCommunity_Type1¿내가 가입한 Community¿My Community¡
+기존다국어언어¿DeleteMessage_Type1¿삭제된 게시글입니다.¿Deleted Post¡
+기존다국어언어¿DeleteMessage_Category¿카테고리를 삭제하시겠습니까?¿Are you sure to remove the category?¡
+기존다국어언어¿SaveMessage_Type1¿저장하시겠습니까?¿Are you sure to save?¡
+기존다국어언어¿RejectMessage_Type2¿반려 사유를 입력해주세요.¿Please enter the reason of rejection.¡
+기존다국어언어¿RejectMessage_Type1¿반려 하시겠습니까?¿Are you sure to reject?¡
+기존다국어언어¿AccessDenied¿접근권한이 없습니다.¿No Access Right¡
+기존다국어언어¿JoinMessage_Type1¿가입 하시겠습니까?¿Would you like to join?¡
+기존다국어언어¿RequestResonMessage_Type1¿요청 사유를 입력하세요.¿Please enter a reason for the request.¡
+기존다국어언어¿FileSizeMessage_Type1¿파일 용량은 5메가를 초과할 수 없습니다.¿File size should not exceed 5MB.¡
+기존다국어언어¿AdminChoiceCheck¿관리자 선택 확인¿Administrators select OK¡
+기존다국어언어¿DescriptionMessage_Type1¿설명을 입력해주세요.¿Please enter a description¡
+기존다국어언어¿ApplicationMessage_Type1¿신청사유를 입력해주세요.¿Please enter a reason for the request¡
+기존다국어언어¿ApplicationMessage_Type2¿신청 하시겠습니까?¿Do you want to apply?¡
+기존다국어언어¿ReasonMessage_Type1¿사유를 입력하세요.¿Please enter a reason.¡
+기존다국어언어¿CommunityURLCheckMessage_Type1¿커뮤니티 이름 또는 커뮤니티 URL 중복 확인을 해 주세요¿Please check duplication for Community Name or Community URL.¡
+기존다국어언어¿ContentsMessage_Type1¿내용을 입력해주세요.¿Please enter your content.¡
+기존다국어언어¿UsingMessage_Type1¿사용 가능합니다.¿Available.¡
+기존다국어언어¿AlreadyExistMessage_Type1¿이미 존재합니다.¿Already exists¡
+기존다국어언어¿Join¿가입¿Join¡
+기존다국어언어¿CannotDeleteMessage¿삭제할 수 없습니다.¿Cannot Delete.¡
+기존다국어언어¿UpdateCompleteMessage¿수정완료 되었습니다.¿Updated Successfully¡
+기존다국어언어¿EstablishApproval¿개설신청 승인/반려¿Establish Application Approval/Reject¡
+기존다국어언어¿EstablishCommunutyCancel¿개설 취소¿Establish Cancel¡
+기존다국어언어¿ConfirmEstablishCommunityCancelMessage¿커뮤니티 개설을 취소하시겠습니까?¿Are you sure you want to cancel community establish?¡
+기존다국어언어¿CancelCommunityJoinMessage¿커뮤니티 가입을 취소하시겠습니까?¿Are you sure you want to cancel joining the community ?¡
+기존다국어언어¿CommunityCreate¿커뮤니티 생성¿Create Community¡
+기존다국어언어¿CategoryManagement¿카테고리 관리¿Category Management¡
+기존다국어언어¿CategoryCreate¿카테고리 생성¿Category Create¡
+기존다국어언어¿EstablishApplicationList¿개설 신청 목록¿Establish Application List¡
+기존다국어언어¿CommunityManagement¿커뮤니티 관리¿Community Management¡
+기존다국어언어¿CommunityInfo¿커뮤니티 정보¿Community Information¡
+기존다국어언어¿MemberManagement¿회원 관리¿Member Management¡
+기존다국어언어¿GroupManagement¿그룹 관리¿Group Management¡
+기존다국어언어¿JoinApproval¿가입 승인¿Join Apploval¡
+기존다국어언어¿MenuManagement¿메뉴 관리¿Menu Management¡
+기존다국어언어¿MainManagement¿메인 화면 관리¿Main Page Management¡
+기존다국어언어¿CommunityStatistics¿커뮤니티 통계¿Community Statistics¡
+기존다국어언어¿Homepage¿홈페이지¿Homepage¡
+기존다국어언어¿CommunityStatus¿커뮤니티 상태¿Community Status¡
+기존다국어언어¿CommunityNotJoinedMember¿해당 커뮤니티 맴버가 아닙니다.¿You are not the community members.¡
+기존다국어언어¿CommunityJoinMessage¿가입 하시겠습니까?¿Would you like to join?¡
+기존다국어언어¿CommunityJoin¿가입하기¿Join¡
+기존다국어언어¿CommunityNotice¿총 {0} 개의 커뮤니티에서 {1} 명의 멤버가 함께하고 있습니다!¿We are together with {1} members from {0} communities!¡
+기존다국어언어¿Operate¿운영¿Operate¡
+기존다국어언어¿Closure¿폐쇄¿Closed¡
+기존다국어언어¿SelectFile¿파일 선택¿Select File¡
+기존다국어언어¿Member¿회원¿Member¡
+기존다국어언어¿JoinPurpose¿가입 목적¿Join Purpose¡
+기존다국어언어¿JoinRequestDate¿가입요청일¿Join Request Date¡
+기존다국어언어¿Dept¿부서¿Department¡
+기존다국어언어¿AType¿A 구성¿A Type¡
+기존다국어언어¿BType¿B 구성¿B Type¡
+기존다국어언어¿PresentType¿현재구성¿Present Type¡
+기존다국어언어¿WidgetLIst¿위젯 목록¿Widget List¡
+기존다국어언어¿Bulletin¿게시판¿Bulletin¡
+기존다국어언어¿Folder¿폴더¿Folder¡
+기존다국어언어¿BulletinList¿게시판 목록¿Bulletin List¡
+기존다국어언어¿BoardManagement¿게시판 관리¿BoardManagement¡
+기존다국어언어¿JoinDate¿가입일¿Join Date¡
+기존다국어언어¿JoinProcedure¿가입절차¿Join Procedure¡
+기존다국어언어¿LastVisitDate¿최종 방문일¿Last Visit Date¡
+기존다국어언어¿VisitCount¿방문수¿Visit Count¡
+기존다국어언어¿CommentCount¿댓글수¿Comment Count¡
+기존다국어언어¿SendMail¿메일발송¿Send Mail¡
+기존다국어언어¿SendMailText¿선택한 회원에게 메일을 발송합니다.¿Send Mail To Selected User¡
+기존다국어언어¿AddMember¿회원 추가¿Add Member¡
+기존다국어언어¿Withdrawal¿탈퇴¿Withdrawal¡
+기존다국어언어¿WithdrawalMember¿회원 탈퇴¿Withdrawal Member¡
+기존다국어언어¿MenuName¿메뉴명¿Menu Name¡
+기존다국어언어¿HidingSetting¿숨김 설정¿Display Setting¡
+기존다국어언어¿Mark¿표시하기¿Show¡
+기존다국어언어¿Hiding¿숨기기¿Hide¡
+기존다국어언어¿BulletinType¿게시판 유형¿Bulletin Type¡
+기존다국어언어¿BulletinFunction¿게시판 기능¿Bulletin Function¡
+기존다국어언어¿AuthoritySetting¿권한설정¿Privilege Setting¡
+기존다국어언어¿Group¿그룹¿Group¡
+기존다국어언어¿Authority¿권한¿Privilege¡
+기존다국어언어¿AuthorityWrite¿글쓰기¿Write¡
+기존다국어언어¿StatisticsAbstract¿통계 요약¿Statistics Abstract¡
+기존다국어언어¿BulletinPresentCondition¿게시판 현황¿Bulletin Present Condition¡
+기존다국어언어¿TotalAccumulation¿총 누적¿Total Accumulation¡
+기존다국어언어¿Visit¿방문¿Visit¡
+기존다국어언어¿Posts¿게시글¿Posts¡
+기존다국어언어¿BestMember¿BEST 회원¿BEST Member¡
+기존다국어언어¿CommunityPresentCondition¿커뮤니티 현황 통계¿Community Present Condition¡
+기존다국어언어¿RecentOneWeek¿최근 1주¿Recent 1 Week¡
+기존다국어언어¿Month¿개월¿Month¡
+기존다국어언어¿YesterdayVisitCount¿전일 방문 수¿Yesterday Visit Count¡
+기존다국어언어¿RecentOneWeekAccumulation¿최근 1주 누적¿Recent 1 Week Accumulation¡
+기존다국어언어¿BestPosts¿BEST 게시물¿BEST Posts¡
+기존다국어언어¿Ranking¿순위¿Ranking¡
+기존다국어언어¿RecommendCount¿추천수¿Like¡
+기존다국어언어¿BulletinVisitStatistics¿게시판 방문 통계¿Bulletin Visit Statistics¡
+기존다국어언어¿AddGroup¿그룹추가¿Add Group¡
+기존다국어언어¿ChangeName¿이름변경¿Change Name¡
+기존다국어언어¿DeleteGroup¿그룹삭제¿Delete Group¡
+기존다국어언어¿CreateGroupMessage¿생성 하시겠습니까?¿You want to create?¡
+기존다국어언어¿DeleteGroupMessage¿그룹을 삭제 하시겠습니까?¿Are you sure you want to delete a group?¡
+기존다국어언어¿MemberGroupMessage¿회원을 삭제 하시겠습니까?¿Are you sure you want to delete a member?¡
+기존다국어언어¿DeleteMember¿회원삭제¿DeleteMember¡
+기존다국어언어¿EmpID¿사번¿EmployeeID¡
+기존다국어언어¿CategoryModify¿카테고리 수정¿Category Modify¡
+기존다국어언어¿StandBy¿대기¿Stand By¡
+기존다국어언어¿ApprovalMessage_Type1¿승인 하시겠습니까?¿Are you sure you want to approve?¡
+기존다국어언어¿InputTypeMessage_Type1¿영문 숫자만 입력 가능합니다.¿Letters and numbers can be entered.¡
+기존다국어언어¿EstablishMessage_Type1¿개설 하시겠습니까?¿Are you sure to create Community?¡
+기존다국어언어¿NoneChoiceGroupMessage_Type1¿선택된 그룹이 없습니다.¿No group selected.¡
+기존다국어언어¿NoneChoiceMemberMessage_Type1¿선택된 회원이 없습니다.¿No members selected.¡
+기존다국어언어¿NoneChoiceItemMessage_Type1¿선택된 항목이 없습니다.¿No items selected.¡
+기존다국어언어¿AdminGroupDeleteMessage¿관리자 그룹은 삭제할 수 없습니다.¿You can not delete the administrator group.¡
+기존다국어언어¿CannotDeleteSysop¿관리자는 삭제할 수 없습니다.¿You can not delete the manager.¡
+기존다국어언어¿NoneExistGroup¿해당 그룹이 존재하지 않습니다.¿The group does not exist.¡
+기존다국어언어¿ModifyMessage_Type1¿수정 하시겠습니까?¿Would you like to edit?¡
+기존다국어언어¿CanNotAdd¿추가 할 수 없습니다.¿You can not add.¡
+기존다국어언어¿Individual¿개인¿Individual¡
+기존다국어언어¿YesterdayPostsCount¿전일 게시글 수¿Yesterday Posts Count¡
+기존다국어언어¿YesterdayCommentCount¿전일 댓글 수¿Yesterday Comment Count¡
+기존다국어언어¿LastWeekVisitCount¿전주 방문 수¿Yesterday Visit Count¡
+기존다국어언어¿LastWeekPostsCount¿전주 게시글 수¿Last week post count¡
+기존다국어언어¿LastWeekCommentCount¿전주 댓글 수¿Last week, the number of comments¡
+기존다국어언어¿RecentOneMonthAccumulation¿최근 1개월 누적¿Recent 1 Month Accumulation¡
+기존다국어언어¿RecentThreeMonthAccumulation¿최근 3개월 누적¿Recent 3 Month Accumulation¡
+기존다국어언어¿LastMonthVisitCount¿전월 방문 수¿Last Month Visit Count¡
+기존다국어언어¿LastMonthPostsCount¿전월 게시글 수¿Last Month Posts Count¡
+기존다국어언어¿LastMonthCommentCount¿전월 댓글 수¿Last Month Comment Count¡
+기존다국어언어¿RecentSixMonthAccumulation¿최근 6개월 누적¿Recent 6 Month Accumulation¡
+기존다국어언어¿ShortDay¿일¿Day¡
+기존다국어언어¿Day¿일자¿Day¡
+기존다국어언어¿Success¿성공¿Success¡
+기존다국어언어¿ModifyWebpart¿웹파트 수정하기¿Modify Webpart¡
+기존다국어언어¿CrawlingConfiguration¿요약글 서비스 설정¿CrawlingConfiguration¡
+기존다국어언어¿WebpartType_None¿웹파트 선택¿None¡
+기존다국어언어¿ModifyPersonaBoard¿게시판 설정하기¿Modify Board¡
+기존다국어언어¿WebpartType_MyInfo¿MyInfo¿MyInfo¡
+기존다국어언어¿WebpartType_MyCommunity¿MyCommunity¿MyCommunity¡
+기존다국어언어¿WebpartType_MyBookmark¿MyBookmark¿MyBookmark¡
+기존다국어언어¿WebpartType_ImageRollingBanner¿이미지롤링배너¿ImageRollingBanner¡
+기존다국어언어¿WebpartType_HtmlBanner¿Html배너¿HtmlBanner¡
+기존다국어언어¿WebpartType_DoubleBanner¿이중배너¿DoubleBanner¡
+기존다국어언어¿WebpartType_ListBoard¿목록형게시판¿ListBoard¡
+기존다국어언어¿WebpartType_ThumbnailBoard¿썸네일게시판¿ThumbnailBoard¡
+기존다국어언어¿WebpartType_StatusBoard¿상태게시판¿StatusBoard¡
+기존다국어언어¿WebpartType_BannerBoard¿배너형게시판¿BannerBoard¡
+기존다국어언어¿WebpartType_SimpleListBoard¿단순형게시판¿SimpleListBoard¡
+기존다국어언어¿WebpartType_Scheduler¿일정게시판¿Schduler¡
+기존다국어언어¿WebpartType_Frame¿프레임¿Frame¡
+기존다국어언어¿WebpartType_MailUsage¿메일 사용량¿Mail Usage¡
+기존다국어언어¿WebpartType_PersonalizedBoard¿개인화 게시판¿Personalized Board¡
+기존다국어언어¿WebpartType_MyInfoTwo¿MyInfo(SKMR)¿MyInfo(SKMR)¡
+기존다국어언어¿WebpartType_QuickBanner¿Quick Banner¿Quick Banner¡
+기존다국어언어¿WebpartType_QuickLink¿Quick Link¿Quick Link¡
+기존다국어언어¿WebpartType_SimpleWriterListBoard¿단순형(작성자) 게시판¿SimpleWriterListBoard¡
+기존다국어언어¿WebpartType_MailBoard¿Mail List¿Mail List¡
+기존다국어언어¿WebpartType_Survey¿Survey¿Survey¡
+기존다국어언어¿WebpartType_PSimpleWriterListBoard¿단순형(작성자, 개인화) 게시판¿PSimpleWriterListBoard¡
+기존다국어언어¿WebpartType_Reservation¿Reservation¿Reservation¡
+기존다국어언어¿WebpartType_MySchedule¿일정(부서)¿Schduler(Department)¡
+기존다국어언어¿WebpartType_Approval¿결재 웹파트¿Webpart Approval¡
+기존다국어언어¿WebpartType_ESSENCORE_MyInfo¿MyInfo(ESSENCORE)¿MyInfo(ESSENCORE)¡
+기존다국어언어¿WebpartType_ESSENCORE_Survey¿Survey(ESSENCORE)¿Survey(ESSENCORE)¡
+기존다국어언어¿WebpartType_ESSENCORE_QuickLink¿QuickLink(ESSENCORE)¿QuickLink(ESSENCORE)¡
+기존다국어언어¿WebpartType_SingleLine¿Single Line¿Single Line¡
+기존다국어언어¿Setup¿설정¿Setting¡
+기존다국어언어¿ApprovalWebpart_Priority¿결재 표시 우선순위¿Approval Display Priority¡
+기존다국어언어¿ApprovalWebpart_Priority_Select¿결재 표시 우선순위 선택¿Set Approval Display Priority¡
+기존다국어언어¿ApprovalWebpart_Priority_Lump¿결재할문서¿To approve¡
+기존다국어언어¿ApprovalWebpart_Priority_Dept¿부서수신함¿Dept. Inbox¡
+기존다국어언어¿ApprovalWebpart_Priority_SelectDefault¿우선순위 미선택 시 '결재할 문서'가 우선 표시됩니다.¿At the time of the priority unselected 'To Be Approval' will be displayed first¡
+기존다국어언어¿ApprovalWebpart_LumpEmpty¿결재할 문서가 없습니다¿There is no approval document¡
+기존다국어언어¿ApprovalWebpart_DeptEmpty¿부서수신함 문서가 없습니다¿There is no Dept. Inbox document¡
+기존다국어언어¿ApprovalWebpart_DocumentEmpty¿문서가 없습니다¿No document¡
+기존다국어언어¿MyScheduleWebpart_Empty¿등록된 일정이 없습니다¿There is no registration schedule¡
+기존다국어언어¿PersonalizedBoard_OpenMode¿게시물 오픈방식¿Open Method¡
+기존다국어언어¿PersonalizedBoard_OpenMode_Redirect¿페이지 이동¿Page Redirect¡
+기존다국어언어¿PersonalizedBoard_OpenMode_Window¿새창으로 열기¿New Window¡
+기존다국어언어¿PersonalizedBoard_OpenMode_Popup¿팝업으로 열기¿Open Popup¡
+기존다국어언어¿PersonalizedBoard_OpenMode_WP_Size¿사이즈¿Size¡
+기존다국어언어¿MailUsage_Used¿사용량¿Used¡
+기존다국어언어¿MailUsage_Free¿남은용량¿Free¡
+기존다국어언어¿MailUsage_Quotas¿할당량¿Quotas¡
+기존다국어언어¿MailUsage_CantUse¿사용불가¿Can't Use¡
+기존다국어언어¿MailUsage_Unlimited¿무제한¿Unlimited¡
+기존다국어언어¿MyInfo_Newmail¿새 메일¿New Mail¡
+기존다국어언어¿MyInfo_ApvApprove¿결재할 문서¿Docs to Approve¡
+기존다국어언어¿MyInfo_ApvProgress¿진행중 문서¿Docs in Progress¡
+기존다국어언어¿MyInfoSetting_ModifyMobileQuestion¿연락처를 수정하시겠습니까?¿Would you like to update your mobile number?¡
+기존다국어언어¿MyInfoSetting_ModifyPictureQuestion¿프로필 사진을 수정하시겠습니까?¿Would you like to update your profile photo?¡
+기존다국어언어¿MyInfoSetting_FailedModifyMyInfo¿개인설정을 수정하지 못했습니다.¿Failed to update Personal Settings.¡
+기존다국어언어¿MyInfo_CommunityShortcut¿Community 바로가기¿Go to Community¡
+기존다국어언어¿PostsInTheBoard¿ 개의 게시물이 있습니다.¿ Posts in the board¡
+기존다국어언어¿MyInfo_ProfileImage_SelectPciture¿사진 선택¿Select Picture¡
+기존다국어언어¿Choice¿선택¿Select¡
+기존다국어언어¿Gnb_YellowPage_SearchMember_Placeholder¿구성원 검색¿Search for members¡
+기존다국어언어¿CompanyCalender¿회사일정¿CorporationProgram¡
+기존다국어언어¿회사일정¿회사일정¿CorporationProgram¡
+기존다국어언어¿Today¿오늘¿Today¡
+기존다국어언어¿ADay¿하루¿A day¡
+기존다국어언어¿AWeek¿한 주¿A week¡
+기존다국어언어¿AMonth¿한 달¿A month¡
+기존다국어언어¿Quarter¿분기¿Quarter¡
+기존다국어언어¿ThreeMonths¿세 달¿3 months¡
+기존다국어언어¿HalfAYear¿반 년¿Half a year¡
+기존다국어언어¿AYear¿일 년¿A year¡
+기존다국어언어¿Years¿년¿Years¡
+기존다국어언어¿M¿월¿M¡
+기존다국어언어¿W¿주¿W¡
+기존다국어언어¿January¿1월¿January¡
+기존다국어언어¿February¿2월¿February¡
+기존다국어언어¿March¿3월¿March¡
+기존다국어언어¿April¿4월¿April¡
+기존다국어언어¿May¿5월¿May¡
+기존다국어언어¿June¿6월¿June¡
+기존다국어언어¿July¿7월¿July¡
+기존다국어언어¿August¿8월¿August¡
+기존다국어언어¿September¿9월¿September¡
+기존다국어언어¿October¿10월¿October¡
+기존다국어언어¿November¿11월¿November¡
+기존다국어언어¿December¿12월¿December¡
+기존다국어언어¿Sun¿일¿Sun¡
+기존다국어언어¿Mon¿월¿Mon¡
+기존다국어언어¿Tue¿화¿Tue¡
+기존다국어언어¿Wed¿수¿Wed¡
+기존다국어언어¿Thu¿목¿Thu¡
+기존다국어언어¿Fri¿금¿Thu¡
+기존다국어언어¿Sat¿토¿Sat¡
+기존다국어언어¿Reserved¿예약완료¿Reserved¡
+기존다국어언어¿Reservation¿예약가능¿Reservation¡
+기존다국어언어¿ConnotReservation¿예약불가¿Can't Reservation¡
+기존다국어언어¿Company¿회사¿Company¡
+기존다국어언어¿Department¿부서¿Department¡
+기존다국어언어¿ThisFileTypeCouldNotUpload¿업로드 할 수 없는 파일 형식입니다. ¿This file type could not upload. ¡
+기존다국어언어¿_X_UploadExceededTheTotalAvailableCapacity¿업로드 가능 전체 용량을 초과하였습니다. ¿The total size of upload files exceeded the total available capacity. ¡
+기존다국어언어¿_X_UploadExceededTheAvailableCapacity¿업로드 가능 용량을 초과하였습니다. ¿Upload exceeded the available capacity. ¡
+기존다국어언어¿UploadInProgress¿업로드가 진행중입니다.¿Upload in progress. ¡
+기존다국어언어¿UploadNotYetCompleted¿업로드 되지 않은 파일이 있습니다.¿Upload not yet completed. ¡
+기존다국어언어¿TheBrowerIsNotAvailable¿사용할 수 없는 브라우저입니다. (HTML5 미지원)¿The browser is not available. (No HTML5 support)¡
+기존다국어언어¿MaximumNumberOfUploadFilesIs¿최대 업로드 파일 수¿Maximum number of uploaded files is ¡
+기존다국어언어¿ItWasExceeded¿을(를) 초과하였습니다.¿It was exceeded.¡
+기존다국어언어¿TheSameFileNameHasAlreadyBeenAdded¿같은 이름의 파일이 이미 추가 되어있습니다.¿This same file name has already been added.¡
+기존다국어언어¿TheUploadWasCanceld¿업로드가 취소 되었습니다.¿The upload was canceled.¡
+기존다국어언어¿TheUploadFailed¿업로드가 실패하였습니다. ¿The upload failed. ¡
+기존다국어언어¿PleaseSpecifyAStartDate¿공지 시작일을 지정해 주세요.¿Please specify a start date.¡
+기존다국어언어¿StartDateFormatIsIncorrect¿공지 시작일 형식이 올바르지 않습니다.¿Start Date format is incorrect.¡
+기존다국어언어¿PleaseSpecifyAnEndDate¿공지 종료일을 지정해 주세요.¿Please specify an end date.¡
+기존다국어언어¿EndDateFormatIsIncorrect¿공지 종료일 형식이 올바르지 않습니다.¿End date format is incorrect.¡
+기존다국어언어¿ScheduledDateFormatIsIncorrect¿예약 게시일 형식이 올바르지 않습니다.¿ Scheduled publication date format is incorrect.¡
+기존다국어언어¿ScheduledTimeFormatIsIncorrect¿예약 게시 시간 형식이 올바르지 않습니다.¿ Scheduled publication time format is incorrect.¡
+기존다국어언어¿AlreadyRecommend¿이미 추천하셨습니다.¿It has Already recommend.¡
+기존다국어언어¿Error¿에러¿Error¡
+기존다국어언어¿YouCanOnlySelectTheImageFile¿이미지 파일만 선택 가능합니다.¿You can only select the image file.¡
+기존다국어언어¿CanNotFindReservation¿예약 정보를 찾을 수 없습니다.¿You can not find your reservation information...¡
+기존다국어언어¿AsTheLastDateCanNotBeSent¿지난 날짜에 대해서는 발송 할 수 없습니다.¿As the last date can not be sent.¡
+기존다국어언어¿EndTimeIsNotValid¿종료시간 지정 오류입니다.¿End time is not valid.¡
+기존다국어언어¿UnableToFixTheDate¿장비를 추가하셔서 날짜를 수정 하실 수 없습니다.¿Unable to fix the date. Because the equipment has been added.¡
+기존다국어언어¿CouldNotFindAnyResources¿자원을 찾을 수 없습니다.¿Could not find any resources.¡
+기존다국어언어¿ThereIsNoReservation¿예약 중인 자원이 없습니다.¿There are no active resource reservation.¡
+기존다국어언어¿ThereIsNoPost¿게시물이 없습니다.¿There are no posts.¡
+기존다국어언어¿CouldNotFindTheKeyScheduleInformation¿예약 정보 키를 찾을 수 없습니다.¿Could not find the key schedule information.¡
+기존다국어언어¿CouldNotFindTheDeviceInformation¿장비 정보를 찾을 수 없습니다.¿Could not find the device information.¡
+기존다국어언어¿ThereIsNoRegisteredProjectRoom¿등록된 프로젝트 사무실이 없습니다.¿There is no registered project room.¡
+기존다국어언어¿WrongOrganizationCalls¿조직도 호출 설정이 잘못되었습니다.¿Wrong Organization calls.¡
+기존다국어언어¿ChangesFailed¿변경 실패 하였습니다.¿Changes failed.¡
+기존다국어언어¿StartDateEndDateCanNotBeEarlierThan¿시작일보다 종료일이 빠를수 없습니다.¿Start date End date can not be earlier than.¡
+기존다국어언어¿TheItemYouHaveAlreadyAdded¿이미 추가한 아이템입니다.¿The item you have already added.¡
+기존다국어언어¿TheScreenSettingsHaveBeenApplied¿화면 설정이 적용되었습니다.¿The screen settings have been applied.¡
+기존다국어언어¿ThereIsADataErrorOnTheMenu¿메뉴 데이터에 오류가 있습니다.¿There is a data error on the menu.¡
+기존다국어언어¿ThereIsAnErrorInThePartnerMenuData¿관계사 메뉴 데이터에 오류가 있습니다.¿There is an error in the partner menu data.¡
+기존다국어언어¿TheSurveyWasSaved¿설문이 저장되었습니다.¿The survey was saved.¡
+기존다국어언어¿ThereIsNoSurvey¿진행 중인 설문이 없습니다.¿Currently there is no survey.¡
+기존다국어언어¿DuplicateUserAreExcluded¿중복된 사용자는 제외됩니다.¿Duplicate user are excluded.¡
+기존다국어언어¿WithoutModifyingUserRights¿수정 권한이 없는 사용자 입니다.¿Without modifying user rights.¡
+기존다국어언어¿YouCanNotCreateAResponseArticle¿더 이상 응답글을 작성 할 수 없습니다.¿You can not create a response article.¡
+기존다국어언어¿CustomOrganizationMustHaveTheHeight¿Custom 조직도는 높이를 지정해야 합니다.¿Custom Organization Must have the height.¡
+기존다국어언어¿MailSetDoesNotExist¿메일 사용 설정이 없습니다.¿Mail-set does not exist.¡
+기존다국어언어¿ThereIsAnErrorInTheLNBData¿Left 메뉴 데이터에 오류가 있습니다.¿There is an error in the LNB data.¡
+기존다국어언어¿TheMenuOnlySupportsInternetExplorer¿메뉴는 Internet Explorer만 지원합니다.¿The menu only supports Internet Explorer.¡
+기존다국어언어¿AreYouSureYouWantToDeleteTheSelectedList¿선택한 목록을 삭제 하시겠습니까?¿Are you sure you want to delete the selected list?¡
+기존다국어언어¿PleaseSelectTheRoomYouBook¿예약할 회의실을 먼저 선택하십시오.¿Please select the room you book first.¡
+기존다국어언어¿Management_Menu_ReloadMenuService¿메뉴 서비스 갱신¿Reload Menu Service¡
+기존다국어언어¿ItHasAlreadyBeenAdded¿이미 추가되었습니다.¿It has already been added.¡
+기존다국어언어¿AddAdministratorError¿관리자 추가 에러¿Add Administrator error¡
+기존다국어언어¿PleaseEnterAdminID¿사용자 아이디를 입력하세요.¿Please enter the Administrator ID.¡
+기존다국어언어¿PleaseEnterBoardName¿게시판 이름을 입력해주세요.¿Please enter the board name.¡
+기존다국어언어¿PleaseEnterBoardURL¿게시판 URL을 입력해주세요.¿Please enter the board url.¡
+기존다국어언어¿UrlInvalid¿게시판 URL 형식이 맞지 않습니다.¿Entered url was invalid.¡
+기존다국어언어¿PleaseChoiceDisk¿디스크를 지정해주세요.¿Please choice disk.¡
+기존다국어언어¿UrlWasDuplicated¿중복되는 URL입니다. 다른 URL을 입력하세요.¿Entered URL was duplicated. Please enter other URL.¡
+기존다국어언어¿AreYouSureYouWantToDelete¿삭제하시겠습니까?¿Are you sure you want to delete?¡
+기존다국어언어¿PleaseEnterTheHolidayName¿공휴일 이름을 작성해 주세요.¿Please enter the holiday name.¡
+기존다국어언어¿HolidaysNameCanNotBeDuplicated¿공휴일 이름은 중복될 수 없습니다.¿Holidays name can not be duplicated.¡
+기존다국어언어¿PleaseEnterTheCategoriesName¿카테고리 이름을 작성해 주세요.¿Please enter the categories name.¡
+기존다국어언어¿CategoriesNameCanNotBeDulpicated¿카테고리 이름은 중복될 수 없습니다.¿Categories name can not be duplicated.¡
+기존다국어언어¿ThereIsNoDiskYouHaveChosen¿선택하신 디스크가 없습니다.¿There is no disk you have chosen.¡
+기존다국어언어¿ThereIsNoListIsSelected¿선택된 리스트가 없습니다.¿There is no list is selected.¡
+기존다국어언어¿FailedLoadData¿데이터를 정상적으로 불러오지 못했습니다.¿Failed to load the data properly.¡
+기존다국어언어¿SaveSuccess¿저장되었습니다.¿Saved Successfully¡
+기존다국어언어¿ItWasInitialized¿초기화 되었습니다.¿It was initiated.¡
+기존다국어언어¿PleaseEnterNumericType¿숫자값을 입력해 주세요.¿Please enter a numeric value for the type.¡
+기존다국어언어¿AreYouSureYouWantToDeleteThisPost¿이 글을 삭제하시겠습니까?¿Are you sure you want to delete this post?¡
+기존다국어언어¿RoleIDIsIncorrent¿선택하신 RoleID가 올바르지 않습니다.¿ RoleID that you selected is incorrect.¡
+기존다국어언어¿AClAuthIsIncorrent¿입력하신 ACLAuth값이 올바르지 않습니다.¿ACLAuth that you wrote is incorrect.¡
+기존다국어언어¿MunuIDIsExist¿중복된 MenuID가 있습니다.¿MenuID is already exist.¡
+기존다국어언어¿Notice¿공지사항¿Notice¡
+기존다국어언어¿GeneralBoard¿일반게시판¿General Board¡
+기존다국어언어¿Calendar¿일정게시판¿Calendar¡
+기존다국어언어¿Webpart_SelectWebpartType¿웹파트 선택¿Select Webpart¡
+기존다국어언어¿Webpart_Rolling_Interval¿롤링 주기¿Rolling Interval¡
+기존다국어언어¿Webpart_Rolling_Interval_Second¿초¿Second¡
+기존다국어언어¿Webpart_Rolling_Interval_Image¿이미지¿Image¡
+기존다국어언어¿Webpart_Rolling_Interval_Image_Info¿이미지 정보¿Image Info¡
+기존다국어언어¿Webpart_Rolling_Interval_Image_URL¿이미지 주소¿Image URL¡
+기존다국어언어¿Webpart_Rolling_Interval_Image_Link¿이미지 클릭 이벤트¿Image Click Event¡
+기존다국어언어¿Lang_Korean¿한글¿Korean¡
+기존다국어언어¿Lang_English¿영문¿English¡
+기존다국어언어¿Lang_Chinese¿중문¿Chinese¡
+기존다국어언어¿Webpart_Title¿웹파트 제목¿Webpart Title¡
+기존다국어언어¿Webpart_Modify_SelectBoard¿게시판 선택¿Select Board¡
+기존다국어언어¿Webpart_Modify_SelectBoard_AddBoard¿게시판 추가¿Add Board¡
+기존다국어언어¿Webpart_Modify_Board_Article_Limit¿게시물 제한범위 (일)¿limited scope(Day) for article¡
+기존다국어언어¿Webpart_Modify_StatusBoard_StatusCode¿상태코드¿StatusCode¡
+기존다국어언어¿Webpart_Modify_StatusBoard_CompletedValue¿완료상태¿Completed Value¡
+기존다국어언어¿Webpart_Modify_NoSelectedBoard¿게시판이 선택되지 않았습니다.¿There is no selected Board.¡
+기존다국어언어¿Webpart_Modify_ExistsBoard¿이미 추가된 게시판입니다.¿This board was already added.¡
+기존다국어언어¿Webpart_Modify_CantAdd¿더이상 추가할 수 없습니다.¿You can not add any more.¡
+기존다국어언어¿Webpart_Modify_Frame_LoadDelay¿호출 딜레이¿Load Delay¡
+기존다국어언어¿Webpart_Modify_Frame_Scroll¿스크롤¿Scroll¡
+기존다국어언어¿Webpart_Modify_Frame_AllowScroll¿스크롤바 허용¿Allow ScrollBar¡
+기존다국어언어¿Webpart_Modify_MailBoard_DisplayMailCount¿메일 표시 개수¿Display Mail Count¡
+기존다국어언어¿Webpart_Modify_MailBoard_GetUnreadMessages¿읽지 않은 메일만 보여주기¿Show only unread messages¡
+기존다국어언어¿Webpart_Modify_Reservation_DisplayResourceCount¿자원 예약 표시 개수¿Display Reservation Count¡
+기존다국어언어¿Webpart_Modify_Reservation_SortType¿자원 예약 정렬 방식¿Resource Reservation Sort Type¡
+기존다국어언어¿Webpart_Modify_Reservation_SortType_Resource¿자원 별 정렬¿Sort By Resource¡
+기존다국어언어¿Webpart_Modify_Reservation_SortType_Time¿시간 별 정렬¿Sort By Reservation Time¡
+기존다국어언어¿Webpart_Modify_SingleLine_ShowImage¿이미지 보여주기¿Show Image¡
+기존다국어언어¿Webpart_Alert_Exceed¿메일 용량 80% 초과!¿Mail capacity exceeding 80%!¡
+기존다국어언어¿Webpart_Alert_PleaseEmpty¿메일함을 비워주세요.¿Please empty the mailbox.¡
+기존다국어언어¿Webpart_MailBoard_NoMessages¿메일이 없습니다¿No messages¡
+기존다국어언어¿EditConfirmMessage¿수정하시겠습니까?¿Are you sure you want to edit?¡
+기존다국어언어¿CannotEditRoot¿수정할 수 없습니다.¿Can not edit this menu.¡
+기존다국어언어¿ScheduledPost¿예약게시¿Scheduled Post¡
+기존다국어언어¿PublicationDate¿예약시간¿Posting Time¡
+기존다국어언어¿SelectCorrectScheduleDate¿예약 날짜를 선택하세요¿Select appropriate date for the scheduled post.¡
+기존다국어언어¿SelectCorrectScheduleTime¿예약 시간를 선택하세요¿Select appropriate time for the scheduled post.¡
+기존다국어언어¿PastDateTimeSelected¿날짜와 시간이 현재보다 과거입니다.¿The date and time specified is in the past.¡
+기존다국어언어¿CommunityWaitingForApprovalMessage¿승인 대기 중인 커뮤니티 입니다.¿The community is waiting for approval.¡
+기존다국어언어¿GroupNameAlreadyExistMessage¿중복된 그룹이 있습니다.¿Group name is already exist.¡
+기존다국어언어¿Webpart_RequireSelectBoard¿게시판을 선택해주세요.¿Please select board.¡
+기존다국어언어¿Webpart_CrawlingInterval¿게시글 수집 주기¿Article crawling interval¡
+기존다국어언어¿Webpart_CrawlingArticle¿게시글 수집¿Crawl for articles¡
+기존다국어언어¿Webpart_Reservation_MeetingRoom¿회의실¿Room¡
+기존다국어언어¿Webpart_Reservation_Equipment¿장비¿Equipment¡
+기존다국어언어¿AlreadyJoinedCommunity¿이미 가입된 커뮤니티 입니다.¿You already joined this community.¡
+기존다국어언어¿PleaseInputAtLeastNChars¿최소 {0} 글자 이상 입력해 주세요.¿Please enter at least {0} characters.¡
+기존다국어언어¿ReadHistory¿읽음 기록¿Read history¡
+기존다국어언어¿Admin¿관리자¿Admin¡
+기존다국어언어¿Users¿사용자¿Users¡
+기존다국어언어¿ImmediatelyCreate¿즉시 개설¿Immediately create¡
+기존다국어언어¿ApprovalPending¿승인 대기 중¿Approval Pending¡
+기존다국어언어¿AllowReplyListItem¿응답글 허용¿Allow Reply¡
+기존다국어언어¿RequestAgain¿재요청¿Request Again¡
+기존다국어언어¿CancelJoin¿가입취소¿Cancel Join ¡
+기존다국어언어¿MenuCountOverflow¿최상위 메뉴 개수는 6개를 초과할 수 없습니다.¿Top menu number can not exceed 6.¡
+기존다국어언어¿ConfigurationApplied¿설정이 적용되었습니다.¿The configuraton have been applied.¡
+기존다국어언어¿MyInfo_RestAPI_InvalidUID¿{USERID} 파라메터가 존재하지 않습니다.¿There is no {USERID} parameter.¡
+기존다국어언어¿MyInfo_RestAPI_InvalidResult¿RestAPI 결과값이 정확하지 않습니다.¿Failed to parse JSON string.¡
+기존다국어언어¿MyInfo_RestAPI_SuccessResult¿사용 가능한 RestAPI 입니다.¿Passed the verification tests.¡
+기존다국어언어¿MyInfo_MyComm_UseCheck¿MyCommunity 바로가기 사용¿Use MyCommunity Link Control¡
+기존다국어언어¿MyInfo_ApprovalConfiguration¿전자결재 개인환경설정¿Approval Configuration¡
+기존다국어언어¿MyInfo_NotPassedRestAPI¿RestAPI 테스트가 필요합니다.¿Please test for RestAPI¡
+기존다국어언어¿MyInfo_Mail_UnreadMailLink¿읽지않은 메일 링크¿UnreadMail Link¡
+기존다국어언어¿MyInfo_Mail_UnreadCountScope¿읽지않은메일 범위¿UnreadMail scope¡
+기존다국어언어¿MyInfo_Mail_UnreadCountScope_InboxOnly¿받은편지함¿INBOX only¡
+기존다국어언어¿MyInfo_Mail_UnreadCountScope_InboxWithSubfolders¿받은편지함 서브폴더 포함¿INBOX with Subfolders¡
+기존다국어언어¿MyInfo_Mail_UnreadCountScope_AllMessageFolders¿모든 메시지 폴더¿All Message Fodlers¡
+기존다국어언어¿Error_WarningFromPages¿페이지에 오류가 발생했습니다.¿Error occurred on the page¡
+기존다국어언어¿Error_AccessDenied¿해당페이지는 접근권한이 없습니다.¿Access Denied for This Page¡
+기존다국어언어¿Error_NotFoundPage¿{0} 페이지가 존재하지 않습니다.¿not found {0} page.¡
+기존다국어언어¿Error_RequestAskErrorCode¿다음 코드를 관리자에게 문의하시기 바랍니다.¿Please contact the following code to the administrator.¡
+기존다국어언어¿YellowPage_Configuration_ViewTargets¿YellowPage 상세보기 설정¿YellowPage Configuration ViewTargets¡
+기존다국어언어¿YellowPage_Name¿이름¿이름¡
+기존다국어언어¿YellowPage_Displayname¿메일 표시이름¿Mail dispalyname¡
+기존다국어언어¿YellowPage_HeadQuarters¿본부¿HeadQuarters¡
+기존다국어언어¿YellowPage_Department¿부서¿Department¡
+기존다국어언어¿YellowPage_TitleName¿직위¿Title¡
+기존다국어언어¿YellowPage_DutyName¿직책¿Duty¡
+기존다국어언어¿YellowPage_Location¿근무지¿Location¡
+기존다국어언어¿YellowPage_Tel¿전화번호¿Phone Number¡
+기존다국어언어¿YellowPage_Mobile¿모바일¿Celluar Phone¡
+기존다국어언어¿YellowPage_Fax¿팩스¿Fax number¡
+기존다국어언어¿YellowPage_Mail¿메일주소¿E-mail Address¡
+기존다국어언어¿YellowPage_JobDescription¿담당업무¿Job¡
+기존다국어언어¿NotHiddenBoard¿메인화면에 노출되어 있으므로 숨김처리를 할 수 없습니다.¿Because they are exposed to the main screen can not be hidden processing.¡
+기존다국어언어¿Management_Error_CantModifyUnmanagedSystemData¿시스템에서 관리되는 데이터입니다. 수정 할 수 없습니다.¿This was generated by system.  It cannot be modified¡
+기존다국어언어¿Management_Error_CantRemoveUnmanagedSystemData¿시스템에서 관리되는 데이터입니다. 삭제 할 수 없습니다.¿This was generated by system.  It cannot be deleted¡
+기존다국어언어¿Booking_Instructions¿예약 안내입니다.¿booking instructions.¡
+기존다국어언어¿ReBooking_Instructions¿예약 변경 안내입니다.¿rebooking instructions.¡
+기존다국어언어¿BookingCancel_Instructions¿예약 취소 안내입니다.¿booking has been cancelled.¡
+기존다국어언어¿Booking_Date¿예약일¿Date¡
+기존다국어언어¿Booking_Time¿예약시간¿Time¡
+기존다국어언어¿Booking_Place¿예약장소¿Location¡
+기존다국어언어¿Booking_ShortCut¿조회 화면 바로가기¿Viewpage Shortcut¡
+기존다국어언어¿Board_NoPost¿등록된 게시물이 없습니다.¿No posts have been submitted.¡
+기존다국어언어¿Board_Management_DatabaseAll¿전체 DB¿All DB¡
+기존다국어언어¿Board_Management_NoDB¿등록된 데이터베이스가 없습니다.¿No databases have been registered.¡
+기존다국어언어¿Board_Management_SiteAll¿전체 사이트¿All Sites¡
+기존다국어언어¿Board_Management_NoBoard¿등록된 게시판이 없습니다.¿No board have been registered.¡
+기존다국어언어¿Board_Management_FolderSetting¿폴더설정¿FolderSetting¡
+기존다국어언어¿Board_Management_FolderSetting_Use¿폴더 사용여부¿UseFolderSetting¡
+기존다국어언어¿Board_Management_AllowFileExt¿첨부파일 허용확장자¿AllowFileExtention¡
+기존다국어언어¿Board_Management_AllowFileExt_Use¿허용 확장자 사용여부¿Use AllowFileExtention¡
+기존다국어언어¿Board_Management_MaxFileCount¿최대 첨부파일개수¿AttachFile MaxCount¡
+기존다국어언어¿Board_Management_MaxFileSize¿최대 첨부파일사이즈¿AttachFile MaxSize¡
+기존다국어언어¿Board_Management_EachFileSize¿개별 첨부파일사이즈¿AttachFile EachSize¡
+기존다국어언어¿Board_Management_Set_Anonymous¿익명게시판 설정¿Setting Anonymous¡
+기존다국어언어¿Board_Management_Anonymous¿익명게시판¿Anonymous¡
+기존다국어언어¿Editor¿수정자¿Editor¡
+기존다국어언어¿Creator¿생성자¿Creator¡
+공통¿Common_Form_DuplicationCheck¿중복검사¿중복검사¡
+공통¿Common_Form_Button_Regist¿등록¿등록¡
+공통¿Common_Form_Button_Cancel¿취소¿취소¡
+공통¿Common_Form_Button_Yes¿예¿예¡
+공통¿Common_Form_Button_No¿아니오¿아니오¡
+공통¿Common_Form_Button_OK¿확인¿확인¡
+공통¿Common_Form_Button_Save¿저장¿저장¡
+공통¿Common_Form_Button_Close¿닫기¿닫기¡
+공통¿Common_Form_Button_ToList¿목록¿목록¡
+공통¿Common_Form_Button_ToNext¿다음¿다음¡
+공통¿Common_Form_Button_ToPrevious¿이전¿이전¡
+공통¿Common_Form_Button_Modify¿편집¿편집¡
+공통¿Common_Form_Button_Draft¿임시저장¿임시저장¡
+공통¿Common_Form_Button_Approval¿승인¿승인¡
+공통¿Common_Form_Button_Reject¿반려¿반려¡
+공통¿Common_Form_Button_SendMail¿메일발송¿메일발송¡
+공통¿Common_Form_Button_ErrorGoPrevious¿이전화면¿이전화면¡
+공통¿Common_Form_Button_ErrorGoHome¿hiOK 가기¿hiOK 가기¡
+공통¿Common_Select_Option_All¿전체¿전체¡
+공통¿Common_Button_More¿더보기¿More¡
+공통¿Common_Button_Setting¿설정¿Setting¡
+공통.메시지¿Common_Message_FailedUnknown¿일시적인 오류로 인해 작업을 처리하지 못했습니다. 잠시 후 다시 시도하시거나 관리자에게 문의 하시기 바랍니다.¿일시적인 오류로 인해 작업을 처리하지 못했습니다. 잠시 후 다시 시도하시거나 관리자에게 문의 하시기 바랍니다.¡
+공통.메시지¿Common_Message_FailedNotfound¿{0} 페이지를 찾을 수 없거나 존재하지 않는 경로입니다. 관리자에게 문의 하시기 바랍니다.¿{0} 페이지를 찾을 수 없거나 존재하지 않는 경로입니다. 관리자에게 문의 하시기 바랍니다.¡
+공통.메시지¿Common_Message_FailedAccessdenied¿해당 페이지에 접근 할 수 있는 권한이 없습니다. 관리자에게 문의 하시기 바랍니다.¿해당 페이지에 접근 할 수 있는 권한이 없습니다. 관리자에게 문의 하시기 바랍니다.¡
+공통.메시지¿Common_Message_Success¿작업이 정상적으로 완료되었습니다.¿작업이 정상적으로 완료되었습니다.¡
+공통.메시지¿Common_Message_Failed_KeywordLength¿검색어는 최소 {0}자 이상 입력하시기 바랍니다.¿검색어는 최소 {0}자 이상 입력하시기 바랍니다.¡
+게시판¿ArticleLifeCycle¿보존 연한¿ArticleLifeCycle¡
+게시판¿UpdateAlarmLifeCycle¿업데이트 알림 주기¿UpdateAlarmLifeCycle¡
+게시판¿UpdateAlarmLifeCycle_None¿사용안함¿None¡
+게시판¿Update¿업데이트¿Update¡
+게시판¿Alarm¿알림¿Alarm¡
+게시판¿Receiver¿수신인¿Receiver¡
+게시판¿RequireAlramMailReceiver¿수신인을 선택하세요.¿수신인을 선택하세요.¡
+게시판¿Folder_OuterBox_Title¿폴더체계¿folder tree¡
+게시판¿Folder_VirtualFolder_Allview¿전체보기¿all view¡
+게시판¿Folder_VirtualFolder_Container¿폴더¿Folders¡
+게시판¿Folder_VirtualFolder_ManagementContainer¿폴더 관리¿Management Folder¡
+게시판¿Folder_FolderManagement_DefaultNewFolder¿새 폴더¿New Folder¡
+게시판¿Folder_Msg_FailedRename¿폴더를 수정하지 못했습니다.¿폴더를 수정하지 못했습니다. en¡
+게시판¿Folder_Msg_FailedRenameDetail¿"{0}" 를 "{1}" (으)로 변경 할 수 없습니다.¿"{0}" 를 "{1}" (으)로 변경 할 수 없습니다. en¡
+게시판¿Folder_Msg_SuccessCanDelete¿삭제 가능한 폴더입니다.¿삭제 가능한 폴더입니다. en¡
+게시판¿Folder_Msg_ConfirmDelete¿선택하신 "{0}" 폴더와 하위폴더까지 전부 삭제됩니다. 정말 삭제하시겠습니까?¿선택하신 "{0}" 폴더와 하위폴더까지 전부 삭제됩니다. 정말 삭제하시겠습니까? en¡
+게시판¿Folder_Msg_SuccessDelete¿폴더가 삭제되었습니다.¿폴더가 삭제되었습니다. en¡
+게시판¿Folder_Msg_FailedDelete¿폴더를 삭제하지 못했습니다.¿폴더가 삭제하지 못했습니다. en¡
+게시판¿Folder_Msg_FailedDeleteExistsArticles¿"{0}" 폴더에 {1} 건의 글이 등록되어 있습니다. 폴더에 등록된 게시물을 정리한 뒤 다시 시도하시기 바랍니다.¿"{0}" 폴더에 {1} 건의 글이 등록되어 있습니다. 폴더에 등록된 게시물을 정리한 뒤 다시 시도하시기 바랍니다. en¡
+게시판¿Folder_Msg_FailedDeleteUnknown¿일시적인 오류로 인하여 폴더를 삭제하지 못했습니다. 잠시후 다시 시도하시기 바랍니다.¿일시적인 오류로 인하여 폴더를 삭제하지 못했습니다. 잠시후 다시 시도하시기 바랍니다. en¡
+게시판¿Folder_Msg_FailedDeleteIsVirtualFolder¿가상 폴더는 삭제할 수 없습니다.¿가상 폴더는 삭제할 수 없습니다. en¡
+게시판¿Folder_Msg_FailedMove¿폴더를 이동하지 못했습니다.¿폴더를 이동하지 못했습니다. en¡
+게시판¿Folder_Msg_FailedMoveIsVirtualFolder¿가상 폴더는 이동할 수 없습니다.¿가상 폴더는 이동할 수 없습니다. en¡
+게시판¿Folder_Msg_FailedMoveDuplicatedFoldername¿중복된 이름을 가진 폴더가 해당폴더에 존재합니다. 이름을 변경하거나 다른 폴더를 선택하시기 바랍니다.¿중복된 이름을 가진 폴더가 해당폴더에 존재합니다. 이름을 변경하거나 다른 폴더를 선택하시기 바랍니다. en¡
+게시판¿Folder_Msg_FailedMoveUnknown¿일시적인 오류로 인하여 폴더를 이동하지 못했습니다. 잠시후 다시 시도하시기 바랍니다.¿일시적인 오류로 인하여 폴더를 이동하지 못했습니다. 잠시후 다시 시도하시기 바랍니다. en¡
+게시판¿Folder_Management_PageTitle¿{0} 폴더 관리¿{0} 폴더 관리 en¡
+게시판¿Folder_Management_Description¿현재폴더를 선택한 후 폴더이동 버튼을 누르시면 이동할 폴더를 선택하는 팝업창이 제공되며, 이동할 폴더를 선택한 후 이동버튼을 누르시면 폴더가 이동됩니다. 또한 폴더이동은 폴더 하위로 이동되며, 폴더 생성 또한 선택한 폴더 하위로 생성됩니다.¿현재폴더를 선택한 후 폴더이동 버튼을 누르시면 이동할 폴더를 선택하는 팝업창이 제공되며, 이동할 폴더를 선택한 후 이동버튼을 누르시면 폴더가 이동됩니다. 또한 폴더이동은 폴더 하위로 이동되며, 폴더 생성 또한 선택한 폴더 하위로 생성됩니다. en¡
+게시판¿Folder_Management_Button_NewFolder¿새폴더¿새폴더 en¡
+게시판¿Folder_Management_Button_EditFolder¿폴더 편집¿폴더 편집 en¡
+게시판¿Folder_Management_Button_DeleteFolder¿폴더 삭제¿폴더 삭제 en¡
+게시판¿Folder_Management_Button_MoveFolder¿폴더 이동¿폴더 이동 en¡
+게시판¿UploadExceededTheTotalAvailableCapacity¿전체 업로드 용량은 {0}를 초과할 수 없습니다.¿전체 업로드 용량은 {0}를 초과할 수 없습니다.¡
+게시판¿UploadExceededTheAvailableCapacity¿업로드 용량은 {0}를 초과할 수 없습니다.¿업로드 용량은 {0}를 초과할 수 없습니다.¡
+게시판¿Board_PortalCoa_Group_Manager¿관리자¿관리자¡
+게시판¿Board_PortalCoa_Group_Contributor¿사용자¿사용자¡
+게시판¿Board_PortalCoa_Company_Registration¿회사 등록¿회사 등록¡
+게시판¿Board_PortalCoa_Country_Registration¿국가 등록¿국가 등록¡
+게시판¿Board_PortalCoa_CoA¿CoA¿CoA¡
+게시판¿Board_Temporary_Saved¿임시저장¿Draft¡
+커뮤니티¿Community_Common_Community¿커뮤니티¿Community¡
+커뮤니티¿Community_Common_CommunityTitle¿커뮤니티명¿Title¡
+커뮤니티¿Community_Common_CommunityUrl¿Url¿Url¡
+커뮤니티¿Community_Common_CommunityLocation¿지역¿지역¡
+커뮤니티¿Community_Common_CommunitySecurityState¿보안¿보안¡
+커뮤니티¿Community_Common_CommunitySecurityStatePublic¿공개¿공개¡
+커뮤니티¿Community_Common_CommunitySecurityStatePrivate¿비공개¿비공개¡
+커뮤니티¿Community_Common_CommunityCategory¿카테고리¿카테고리¡
+커뮤니티¿Community_Common_CommunityDescription¿커뮤니티 설명¿커뮤니티 설명¡
+커뮤니티¿Community_Common_CommunitySysop¿운영자¿운영자¡
+커뮤니티¿Community_Common_CommunityManager¿관리자¿관리자¡
+커뮤니티¿Community_Common_CommunityMember¿회원¿회원¡
+커뮤니티¿Community_Common_CommunityCreated¿개설일¿개설일¡
+커뮤니티¿Community_Common_ViewCommunityDescription¿소개보기¿소개보기¡
+커뮤니티¿Community_EstablishApplication¿커뮤니티 개설 신청¿커뮤니티 개설 신청¡
+커뮤니티¿Community_EstablishApplication_InfoMessageHtml¿<p>커뮤니티 개설 신청 전 반드시 <b>사용자 안내를 확인</b>해 주시기 바랍니다.</p><p>또한 커뮤니티 개설 신청이 승인 될 수 있도록 개설목적과 커뮤니티 소개를 상세히 작성해 주시기 바랍니다.</p>¿<p>커뮤니티 개설 신청 전 반드시 <b>사용자 안내를 확인</b>해 주시기 바랍니다.</p><p>또한 커뮤니티 개설 신청이 승인 될 수 있도록 개설목적과 커뮤니티 소개를 상세히 작성해 주시기 바랍니다.</p>¡
+커뮤니티¿Community_EstablishApplication_InformationButton¿사용자 안내¿사용자 안내¡
+커뮤니티¿Community_Common_CommunityUrlPlaceholder¿{0}Community/{1}/ 하위로 구성될 커뮤니티 URL을 정의합니다.¿{0}Community/{1}/ 하위로 구성될 커뮤니티 URL을 정의합니다.¡
+커뮤니티¿Community_Common_CommunitySysopDescriptionHtml¿커뮤니티 활동을 이끌어갈 <b>운영자를 등록해주세요.</b>¿커뮤니티 활동을 이끌어갈 <b>운영자를 등록해주세요.</b>¡
+커뮤니티¿Community_Common_CommunityManagerDescriptionHtml¿운영자와 함께 커뮤니티 활동을 이끌어갈 관리자를 등록해주세요.¿운영자와 함께 커뮤니티 활동을 이끌어갈 관리자를 등록해주세요.¡
+커뮤니티¿Community_EstablishApplication_CommunityMemberDescriptionHtml¿커뮤니티에 활동할 구성원을 등록해주세요.¿커뮤니티에 활동할 구성원을 등록해주세요.¡
+커뮤니티¿Community_EstablishApplication_CommunityDuplicatedValue¿'{0}' 항목은 중복검사가 필요합니다.¿'{0}' 항목은 중복검사가 필요합니다.¡
+커뮤니티¿Community_EstablishApplication_CommunityRequireValue¿'{0}' 항목은 필수값입니다.¿'{0}' 항목은 필수값입니다.¡
+커뮤니티¿Community_EstablishApplication_CommunityUnavailableValue¿'{0}' 값은 사용할 수 없습니다.¿'{0}' 값은 사용할 수 없습니다.¡
+커뮤니티¿Community_EstablishApplication_CommunityAvailableValue¿'{0}' 값은 사용 가능합니다.¿'{0}' 값은 사용 가능합니다.¡
+커뮤니티¿Community_EstablishApplication_ButtonText¿개설신청¿개설신청¡
+커뮤니티¿Community_EstablishApplication_ApplicationCountNotice¿<b>{0}</b> 개의 커뮤니티가 개설신청 되었습니다.¿<b>{0}</b> 개의 커뮤니티가 개설신청 되었습니다.¡
+커뮤니티¿Community_EstablishApplication_EstablishDatetime¿등록일¿등록일¡
+커뮤니티¿Community_EstablishApplication_EstablishStatus¿개설상태¿개설상태¡
+커뮤니티¿Community_EstablishApplication_NoApplication¿등록된 커뮤니티 개설신청서가 없습니다.¿등록된 커뮤니티 개설신청서가 없습니다.¡
+커뮤니티¿Community_EstablishApplication_EstablishStatus_Request¿검토중¿검토중¡
+커뮤니티¿Community_EstablishApplication_EstablishStatus_Draft¿임시저장¿임시저장¡
+커뮤니티¿Community_EstablishApplication_EstablishStatus_Rejected¿반려¿반려¡
+커뮤니티¿Community_EstablishApplication_EstablishStatus_Approved¿승인¿승인¡
+커뮤니티¿Community_EstablishApplication_RejectReason¿반려사유¿반려사유¡
+커뮤니티¿Community_Message_NotFoundCommunity¿커뮤니티가 존재하지 않거나 사용할 수 없는 커뮤니티입니다. <br /> 커뮤니티 주소가 정확한지 확인해주시기 바랍니다.¿커뮤니티가 존재하지 않거나 사용할 수 없는 커뮤니티입니다. <br /> 커뮤니티 주소가 정확한지 확인해주시기 바랍니다.¡
+커뮤니티¿Community_Button_CommunityFront¿커뮤니티 메인¿커뮤니티 메인¡
+커뮤니티¿Community_Search_Placeholder¿동회회 검색¿동회회 검색¡
+커뮤니티¿Community_Search_Description¿<b>구성원들의 여가생활</b>을 검색해보세요!¿<b>구성원들의 여가생활</b>을 검색해보세요!¡
+커뮤니티¿Community_Member_Join¿회원가입¿회원가입¡
+커뮤니티¿Community_Member_Invit¿회원초대¿회원초대¡
+커뮤니티¿Community_Member_Add¿회원추가¿회원추가¡
+커뮤니티¿Community_Member_Withdraw¿회원탈퇴¿회원탈퇴¡
+커뮤니티¿Community_Member_Message_ConfirmRequestJoin¿회원가입을 신청하시겠습니까?¿회원가입을 신청하시겠습니까?¡
+커뮤니티¿Community_Member_Message_ConfirmWidthdraw¿가입된 커뮤니티에서 탈퇴하시겠습니까?¿가입된 커뮤니티에서 탈퇴하시겠습니까?¡
+커뮤니티¿Community_Member_Message_ConfirmWidthdrawDetail¿탈퇴하시면 커뮤니티에 접속이 제한되어 정보를 이용하실 수 없습니다.<br>정말로 해당 커뮤니티에서 탈퇴하시겠습니까?¿탈퇴하시면 커뮤니티에 접속이 제한되어 정보를 이용하실 수 없습니다.<br>정말로 해당 커뮤니티에서 탈퇴하시겠습니까?¡
+커뮤니티¿Community_Member_Message_SuccessWidthdraw¿커뮤니티에서 탈퇴되었습니다.¿커뮤니티에서 탈퇴되었습니다.¡
+커뮤니티¿Community_Member_Message_FailedWidthdrawHasDuplicated¿이미 탈퇴 처리된 회원이 포함되어 있습니다. 다시 확인해주시기 바랍니다.¿이미 탈퇴 처리된 회원이 포함되어 있습니다. 다시 확인해주시기 바랍니다.¡
+커뮤니티¿Community_Member_Message_FailedWidthdrawHasNoMember¿탈퇴 처리대상이 선택되지 않았습니다.¿탈퇴 처리대상이 선택되지 않았습니다.¡
+커뮤니티¿Community_Member_Join_Success¿커뮤니티에 가입 신청되었습니다.¿커뮤니티에 가입 신청되었습니다.¡
+커뮤니티¿Community_Member_Join_FailedHasNonMember¿추가 대상이 선택되지 않았습니다.¿추가 대상이 선택되지 않았습니다.¡
+커뮤니티¿Community_Member¿커뮤니티 회원¿커뮤니티 회원¡
+커뮤니티¿Community_Management_CommunityClosure¿폐쇄 신청¿폐쇄 신청¡
+커뮤니티¿Community_Management_CommunityClosureNotice¿{0} 커뮤니티를 폐쇄 신청합니다. 신청 내용은 담당자에게 전달되어 폐쇄 절차가 진행됩니다.¿{0} 커뮤니티를 폐쇄 신청합니다. 신청 내용은 담당자에게 전달되어 폐쇄 절차가 진행됩니다.¡
+커뮤니티¿Community_Management_CommunityClosureTitle¿{0} 커뮤니티 폐쇠 신청¿{0} 커뮤니티 폐쇠 신청¡
+커뮤니티¿Community_Management_CommunityClosureReason¿폐쇄 사유¿폐쇄 사유¡
+커뮤니티¿Community_Management_CommunityClosureNoData¿폐쇄 신청된 내역이 존재하지 않습니다. 커뮤니티를 폐쇄할 수 없습니다.¿폐쇄 신청된 내역이 존재하지 않습니다. 커뮤니티를 폐쇄할 수 없습니다.¡
+커뮤니티¿Community_Management_ApprovedEstablishApplicatoin¿{0} 커뮤니티 개설신청이 승인 되었습니다.¿{0} 커뮤니티 개설신청이 승인 되었습니다.¡
+커뮤니티¿Community_Management_RejectedEstablishApplicatoin¿{0} 커뮤니티 개설신청이 반려 되었습니다.¿{0} 커뮤니티 개설신청이 반려 되었습니다.¡
+커뮤니티¿Community_Management_MemberStatus¿가입상태¿가입상태¡
+커뮤니티¿Community_Management_MemberStatus_Member¿가입¿가입¡
+커뮤니티¿Community_Management_MemberStatus_Withdraw¿탈퇴¿탈퇴¡
+커뮤니티¿Community_Management_Join_Approve¿가입 승인¿가입 승인¡
+커뮤니티¿Community_Management_Join_Reject¿가입 반려¿가입 반려¡
+커뮤니티¿Community_Management_JoinStatus¿가입신청 상태¿가입신청 상태¡
+커뮤니티¿Community_Management_JoinStatus_Wait¿심사중¿심사중¡
+커뮤니티¿Community_Management_JoinStatus_Approval¿승인¿승인¡
+커뮤니티¿Community_Management_JoinStatus_Rejected¿반려¿반려¡
+커뮤니티¿Community_Menu_EstablishApplication¿커뮤니티 개설¿커뮤니티 개설¡
+커뮤니티¿Community_Menu_MyCommunity¿내가 속한 커뮤니티¿내가 속한 커뮤니티¡
+커뮤니티¿Community_Menu_NewsSetA¿커뮤니티 소식(본사/대덕/기타)¿커뮤니티 소식(본사/대덕/기타)¡
+커뮤니티¿Community_Menu_NewsSetB¿커뮤니티 소식(울산)¿커뮤니티 소식(울산)¡
+커뮤니티¿Community_Menu_EstablishedStatus¿커뮤니티 개설 신청 현황¿커뮤니티 개설 신청 현황¡
+커뮤니티¿Community_Menu_Button_Info¿소개보기¿소개보기¡
+커뮤니티¿Community_Menu_Button_Board¿게시판¿게시판¡
+커뮤니티¿Community_Menu_Button_Member¿회원목록¿회원목록¡
+커뮤니티¿Community_Menu_Button_JoinStatus¿가입요청 현황¿가입요청 현황¡
+커뮤니티¿Community_Menu_Button_Main¿커뮤니티 메인¿커뮤니티 메인¡
+팀사이트¿TeamSite_Lnb_COP_MyActivityCopList¿나의 활동중인 CoP¿나의 활동중인 CoP-EN-¡
+팀사이트¿TeamSite_Lnb_COP_MyCompletedCopList¿나의 활동완료 CoP¿나의 활동완료 CoP-EN-¡
+팀사이트¿TeamSite_Lnb_COP_CreateCop¿CoP 개설¿CoP 개설-EN-¡
+팀사이트¿TeamSite_Lnb_COP_SearchCop¿CoP 검색¿CoP 검색-EN-¡
+팀사이트¿TeamSite_Lnb_TR_MyTeamroomList¿나의 가입된 팀룸¿나의 가입된 팀룸-EN-¡
+팀사이트¿TeamSite_Lnb_TR_TeamroomDocFavorite¿팀룸문서 즐겨찾기¿팀룸문서 즐겨찾기-EN-¡
+팀사이트 메뉴 리소스키¿TeamSite_Lnb_MenuKey_AdminTools_TitleCompanyStatics¿회사별 통계¿회사별 통계-EN-¡
+팀사이트 메뉴 리소스키¿TeamSite_Lnb_MenuKey_AdminTools_TitleTeamRoomStatus¿팀룸 현황¿팀룸 현황-EN-¡
+팀사이트 메뉴 리소스키¿TeamSite_Lnb_MenuKey_AuthSetting_Title¿팀룸 권한 관리¿팀룸 권한 관리-EN-¡
+팀사이트 메뉴 리소스키¿TeamSite_Lnb_MenuKey_Cleansing_PageDateTitle¿일자 별 업로드 용량¿일자 별 업로드 용량-EN-¡
+팀사이트 메뉴 리소스키¿TeamSite_Lnb_MenuKey_Cleansing_PageDuplicateTitle¿중복문서 제거¿중복문서 제거-EN-¡
+팀사이트 메뉴 리소스키¿TeamSite_Lnb_MenuKey_Cleansing_PageExtensionTitle¿확장자 별 용량¿확장자 별 용량-EN-¡
+팀사이트 메뉴 리소스키¿TeamSite_Lnb_MenuKey_CoP_AuthorityManagement¿CoP 권한 관리¿CoP 권한 관리-EN-¡
+팀사이트 메뉴 리소스키¿TeamSite_Lnb_MenuKey_CoP_Cleansing¿CoP Cleansing¿CoP Cleansing-EN-¡
+팀사이트 메뉴 리소스키¿TeamSite_Lnb_MenuKey_CoP_Introduction¿CoP 소개¿CoP 소개-EN-¡
+팀사이트 메뉴 리소스키¿TeamSite_Lnb_MenuKey_CoP_Management¿CoP 관리¿CoP 관리-EN-¡
+팀사이트 메뉴 리소스키¿TeamSite_Lnb_MenuKey_CoP_SubscriptionApplicationList¿가입 신청목록¿가입 신청목록-EN-¡
+팀사이트 메뉴 리소스키¿TeamSite_Lnb_MenuKey_CoP_TransferRequest¿CoP 이관 요청¿CoP 이관 요청-EN-¡
+팀사이트 메뉴 리소스키¿TeamSite_Lnb_MenuKey_CoP_WrapUpList¿WrapUp List¿WrapUp List-EN-¡
+팀사이트 메뉴 리소스키¿TeamSite_Lnb_MenuKey_DocLibFolderManagement_Title¿문서함 폴더 관리¿문서함 폴더 관리-EN-¡
+팀사이트 메뉴 리소스키¿TeamSite_Lnb_MenuKey_BoardFolderManagement_Title¿게시판 폴더 관리¿게시판 폴더 관리-EN-¡
+팀사이트 메뉴 리소스키¿TeamSite_Lnb_MenuKey_FileTransfer_Title¿대용량 파일 이관 요청¿대용량 파일 이관 요청-EN-¡
+팀사이트 메뉴 리소스키¿TeamSite_Lnb_MenuKey_Menu_Manager¿메뉴관리¿메뉴관리-EN-¡
+팀사이트 메뉴 리소스키¿TeamSite_Lnb_MenuKey_MenuPeriodSetting_Title_Menu1070¿Data Cleansing 기간¿Data Cleansing 기간-EN-¡
+팀사이트 메뉴 리소스키¿TeamSite_Lnb_MenuKey_MenuPeriodSetting_Title_Menu1120¿팀룸 인수/인계 기간¿팀룸 인수/인계 기간-EN-¡
+팀사이트 메뉴 리소스키¿TeamSite_Lnb_MenuKey_Public_Board_Title¿부서 게시판¿부서 게시판-EN-¡
+팀사이트 메뉴 리소스키¿TeamSite_Lnb_MenuKey_Public_Board¿게시판¿게시판-EN-¡
+팀사이트 메뉴 리소스키¿TeamSite_Lnb_MenuKey_Public_ConstantWork¿일정/작업¿일정/작업-EN-¡
+팀사이트 메뉴 리소스키¿TeamSite_Lnb_MenuKey_Public_DocLib_Title¿부서 문서함¿부서 문서함-EN-¡
+팀사이트 메뉴 리소스키¿TeamSite_Lnb_MenuKey_Public_DocLib¿문서함¿문서함-EN-¡
+팀사이트 메뉴 리소스키¿TeamSite_Lnb_MenuKey_Public_EntireAdministrator¿전사 관리자¿전사 관리자-EN-¡
+팀사이트 메뉴 리소스키¿TeamSite_Lnb_MenuKey_Public_InactiveTakeOver¿비운영 팀룸 인수인계¿비운영 팀룸 인수인계-EN-¡
+팀사이트 메뉴 리소스키¿TeamSite_Lnb_MenuKey_Public_InitPageSetting¿초기화면 설정¿초기화면 설정-EN-¡
+팀사이트 메뉴 리소스키¿TeamSite_Lnb_MenuKey_Public_Management¿팀룸 관리¿팀룸 관리-EN-¡
+팀사이트 메뉴 리소스키¿TeamSite_Lnb_MenuKey_Public_MemberAdministration¿구성원 관리¿구성원 관리-EN-¡
+팀사이트 메뉴 리소스키¿TeamSite_Lnb_MenuKey_Public_Notice¿공지사항¿공지사항-EN-¡
+팀사이트 메뉴 리소스키¿TeamSite_Lnb_MenuKey_Public_Schedule¿일정¿일정-EN-¡
+팀사이트 메뉴 리소스키¿TeamSite_Lnb_MenuKey_Public_Task¿작업¿작업-EN-¡
+팀사이트 메뉴 리소스키¿TeamSite_Lnb_MenuKey_Public_TeamRoomCleansing¿팀룸 Cleansing¿팀룸 Cleansing-EN-¡
+팀사이트 메뉴 리소스키¿TeamSite_Lnb_MenuKey_RecycleBin_Title¿휴지통¿휴지통-EN-¡
+팀사이트 메뉴 리소스키¿TeamSite_Lnb_MenuKey_TeamRoom_AuthorityProcess¿권한 요청 처리¿권한 요청 처리-EN-¡
+팀사이트 메뉴 리소스키¿TeamSite_Lnb_MenuKey_TeamRoom_PageOtherAuthDateTitle¿다른 팀룸 권한 요청¿다른 팀룸 권한 요청-EN-¡
+팀사이트 메뉴 리소스키¿TeamSite_Lnb_MenuKey_Public_AuthExtension¿권한연장¿권한연장-EN-¡
+메인¿SetDisplayNameDesc¿외부메일 발송 시 표시이름을 변경하려면, {0}사용자 정의를 선택한 후 원하는 표시 이름을 입력하세요.¿외부메일 발송 시 표시이름을 변경하려면, {0}사용자 정의를 선택한 후 원하는 표시 이름을 입력하세요.¡
+서브메인 Static¿SubMain_BoardNews¿이사회 소식¿이사회 소식-EN-¡
+서브메인 Static¿SubMain_LaborAndManagement¿함께하는 노사¿함께하는 노사-EN-¡
+서브메인 Static¿SubMain_China_WebSite¿중국 사업 관련 Web Site¿중국 사업 관련 Web Site-EN-¡
+서브메인 Static¿SubMain_Reliability_RCPS¿근본원인 분석기법 (RCPS)¿근본원인 분석기법 (RCPS)-EN-¡
+서브메인 Static¿SubMain_Reliability_Introduce¿기법 소개¿기법 소개-EN-¡
+서브메인 Static¿SubMain_Reliability_Example¿적용 사례¿적용 사례-EN-¡
+서브메인 Static¿SubMain_Reliability_Study_Data¿Reliability Study자료¿Reliability Study자료-EN-¡
+서브메인 Static¿SubMain_Reliability_Role¿Reliability 관련 규정¿Reliability 관련 규정-EN-¡
+서브메인 Static¿SubMain_Reliability_Accident_Management_Procedure¿사고관리 절차¿사고관리 절차-EN-¡
+서브메인 Static¿SubMain_Reliability_Change_Management_Procedure¿변경관리 절차¿변경관리 절차-EN-¡
+서브메인 Static¿SubMain_Reliability_Risk_Assessment_Procedure¿위험성 평가절차¿위험성 평가절차-EN-¡
+서브메인 Static¿SubMain_Reliability_Estimated_Business_Standard¿산정 업무표준¿산정 업무표준-EN-¡
+서브메인 Static¿SubMain_SafetyEnvironment_SHE_Ability_Reinforce¿SHE 역량강화¿SHE 역량강화-EN-¡
+서브메인 Static¿SubMain_SafetyEnvironment_Keep_Well¿안전환경보전¿안전환경보전-EN-¡
+서브메인 Static¿SubMain_SafetyEnvironment_Education¿교육¿교육-EN-¡
+서브메인 Static¿SubMain_SafetyEnvironment_Estimate_Improving¿평가 및 개선¿평가 및 개선-EN-¡
+서브메인 Static¿SubMain_SafetyEnvironment_Estimate¿평가¿평가-EN-¡
+서브메인 Static¿SubMain_SafetyEnvironment_Observation¿관찰¿관찰-EN-¡
+서브메인 Static¿SubMain_SafetyEnvironment_Checkup¿점검¿점검-EN-¡
+서브메인 Static¿SubMain_SafetyEnvironment_Result¿결과¿결과-EN-¡
+서브메인 Static¿SubMain_SafetyEnvironment_Public_Laws_Management¿공중 및 법규관리¿공중 및 법규관리-EN-¡
+서브메인 Static¿SubMain_SafetyEnvironment_Coronation_Check_Trends¿대관점검 동향¿대관점검 동향-EN-¡
+서브메인 Static¿SubMain_SafetyEnvironment_Laws_Trends¿법규동향¿법규동향-EN-¡
+서브메인 Static¿SubMain_SafetyEnvironment_Health¿안전환경보건¿안전환경보건-EN-¡
+서브메인 Static¿SubMain_SafetyEnvironment_License¿인허가¿인허가-EN-¡
+서브메인 Static¿SubMain_SafetyEnvironment_System¿시스템¿시스템-EN-¡
+서브메인 Static¿SubMain_SafetyEnvironment_GlobalChemical¿종합화학¿종합화학-EN-¡
+미디어¿Media_RegisterMedia¿미디어 등록¿Register Media¡
+미디어¿Media_MainTitle¿미디어 스트리밍 서비스¿Media Streaming Service¡
+미디어¿Media_MediaPlayTime¿재생시간¿Play Time¡
+미디어¿Media_MsgError_MaximumUser¿최대 동시 시청자 수를 초과 하였습니다.¿Execeeded the number of maximum concurrent users¡
+미디어¿Media_MsgError_MaximumUser2¿잠시 후 다시 이용해 주시기 바랍니다.¿Please re-try a few minutes later.¡
+미디어¿Media_RecentContents¿최신 컨텐츠¿Recent Contents¡
+미디어¿Media_RelatedContents¿관련 컨텐츠¿Recent Contents¡
+미디어¿Media_PopularContents¿인기 컨텐츠¿Popular Contents¡
+미디어¿Media_RelatedTag¿관련 태그¿Related Tag¡

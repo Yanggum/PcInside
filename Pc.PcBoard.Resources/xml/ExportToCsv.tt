@@ -1,0 +1,32 @@
+﻿<#@ template debug="true" hostspecific="true" language="C#" #>
+<#@ assembly name="System.Core" #>
+<#@ assembly name="System.Xml" #>
+<#@ import namespace="System.Linq" #>
+<#@ import namespace="System.Text" #>
+<#@ import namespace="System.Collections.Generic" #>
+<#@ import namespace="System.Xml" #>
+<#@ import namespace="System.IO" #>
+<#@ output extension=".csv" #>
+
+<#
+	string projectDir = Host.ResolveAssemblyReference("$(ProjectDir)");
+	string xmlPath = Path.Combine(projectDir, "xml\\MultiLanguage.xml");
+
+	XmlDocument xml = new XmlDocument();
+	xml.Load(xmlPath);
+	
+	XmlNodeList setNodeList = xml.SelectNodes("/PortalMultiLanguage/Section/set");
+
+	foreach (XmlNode setNode in setNodeList)
+	{
+		XmlNode sectionNode = setNode.ParentNode;
+		String section = sectionNode.Attributes["section"].Value;
+		string key = setNode["key"].InnerText;
+		XmlNode valNode = setNode["val"];
+		String ko = valNode["ko"].InnerText;
+		String en = valNode["en"].InnerText;		
+#>
+<#=section#>¿<#=key#>¿<#=ko#>¿<#=en#>¡
+<#
+	}
+#>

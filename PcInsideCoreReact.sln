@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PcInsideCoreReact", "PcInsideCoreReact\PcInsideCoreReact.csproj", "{38C47CB6-086F-4FB5-BD4F-8D3C26FC8994}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PcInsideCoreReact", "PcInsideCoreReact\PcInsideCoreReact.csproj", "{38C47CB6-086F-4FB5-BD4F-8D3C26FC8994}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pc.PcBoard.BaseComponent", "Pc.PcBoard.BaseComponent\Pc.PcBoard.BaseComponent.csproj", "{94EB324D-2923-48BD-ACC4-B75602AD82B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pc.PcBoard.Resources", "Pc.PcBoard.Resources\Pc.PcBoard.Resources.csproj", "{93548B82-5477-48F5-9624-3823249421DC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{38C47CB6-086F-4FB5-BD4F-8D3C26FC8994}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38C47CB6-086F-4FB5-BD4F-8D3C26FC8994}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38C47CB6-086F-4FB5-BD4F-8D3C26FC8994}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94EB324D-2923-48BD-ACC4-B75602AD82B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94EB324D-2923-48BD-ACC4-B75602AD82B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94EB324D-2923-48BD-ACC4-B75602AD82B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94EB324D-2923-48BD-ACC4-B75602AD82B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93548B82-5477-48F5-9624-3823249421DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93548B82-5477-48F5-9624-3823249421DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93548B82-5477-48F5-9624-3823249421DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93548B82-5477-48F5-9624-3823249421DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

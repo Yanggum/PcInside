@@ -79,12 +79,6 @@
     <Content Include="js\jstree\themes\default\.DS_Store" />
     <Content Include="js\vendors\.DS_Store" />
     <None Include="packages.config" />
-    <Content Include="xml\ExportToCsv.csv" />
-    <Content Include="xml\ExportToCsv1.csv">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>ExportToCsv.tt</DependentUpon>
-    </Content>
   </ItemGroup>
   <ItemGroup>
     <Content Include="css\bootstrap-theme.min.css" />
@@ -397,11 +391,6 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>MultiLangScript.tt</DependentUpon>
     </Content>
-    <Content Include="xml\ExportToCsv.tt">
-      <Generator>TextTemplatingFileGenerator</Generator>
-      <LastGenOutput>ExportToCsv1.csv</LastGenOutput>
-    </Content>
-    <Content Include="xml\MultiLanguage.xml" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="MultilangApi\LangCultureParameter.cs" />
@@ -413,7 +402,6 @@
     </Compile>
     <Compile Include="MultilangApi\MultilangManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="xml\ExportToCsv.cs" />
   </ItemGroup>
   <ItemGroup>
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />

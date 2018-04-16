@@ -1,16 +1,38 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html>
 <head>
+    @*meta tag*@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="Content-Type" content="text/html" />
+    <meta http-equiv="Page-Enter" content="revealTrans(Duration=0.2,Transition=12)">
+    <meta http-equiv="Page-Exit" content="revealTrans(Duration=0.2, Transition=12)">
+
     <title>@ViewData["Title"] - PcInsideCoreReact</title>
     <base href="~/" />
 
     <link rel="stylesheet" href="~/dist/vendor.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/dist/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/resources/css/bootstrap-theme.min.css" asp-append-version="true"/>
+    <link rel="stylesheet" href="~/resources/css/dashboard.css" asp-append-version="true"/>
+
+    @Html.Partial("_HeaderLayout.cshtml")
+
 </head>
 <body>
-    @RenderBody()
+    @*@RenderBody()*@
+    @*@Html.Partial("_BodyLayout.cshtml")*@
+    <form id="form" runat="server">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
+                    @RenderBody()
+                </div>
+            </div>
+        </div>
+        <footer>test footer</footer>
+    </form>
+
 
     <script src="~/dist/vendor.js" asp-append-version="true"></script>
     @RenderSection("scripts", required: false)
